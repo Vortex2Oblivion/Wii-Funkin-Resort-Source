@@ -1,0 +1,53 @@
+{
+  "animations": [
+    {
+      "offsets": [68, -1],
+      "loop": false,
+      "fps": 24,
+      "anim": "singLEFT",
+      "indices": [],
+      "name": "BFWiiLeft01"
+    },
+    {
+      "offsets": [21, -12],
+      "loop": false,
+      "fps": 24,
+      "anim": "singDOWN",
+      "indices": [],
+      "name": "BFWiiDown01"
+    },
+    {
+      "offsets": [-5, 40],
+      "loop": false,
+      "fps": 24,
+      "anim": "singUP",
+      "indices": [],
+      "name": "BFWiiUp01"
+    },
+    {
+      "offsets": [-5, 20],
+      "loop": false,
+      "fps": 24,
+      "anim": "idle",
+      "indices": [],
+      "name": "BFWiiIdle01"
+    },
+    {
+      "offsets": [-26, 7],
+      "loop": false,
+      "fps": 24,
+      "anim": "singRIGHT",
+      "indices": [],
+      "name": "BFWiiRight01"
+    }
+  ],
+  "no_antialiasing": false,
+  "image": "characters/BoyfriendWiieve",
+  "position": [0, 350],
+  "healthicon": "basketballbf",
+  "flip_x": true,
+  "healthbar_colors": [49, 176, 209],
+  "camera_position": [60, -40],
+  "sing_duration": 4,
+  "scale": 1
+}

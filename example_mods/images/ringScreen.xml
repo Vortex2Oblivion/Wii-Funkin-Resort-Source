@@ -1,0 +1,47 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="ringScreen.png">
+	<!-- Created with Adobe Animate version 22.0.2.168 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="ringscreenONE0000" x="0" y="0" width="1072" height="510"/>
+	<SubTexture name="ringscreenONE0001" x="0" y="0" width="1072" height="510"/>
+	<SubTexture name="ringscreenONE0002" x="0" y="0" width="1072" height="510"/>
+	<SubTexture name="ringscreenONE0003" x="0" y="0" width="1072" height="510"/>
+	<SubTexture name="ringscreenONE0004" x="0" y="0" width="1072" height="510"/>
+	<SubTexture name="ringscreenONE0005" x="0" y="0" width="1072" height="510"/>
+	<SubTexture name="ringscreenONE0006" x="0" y="0" width="1072" height="510"/>
+	<SubTexture name="ringscreenONE0007" x="0" y="0" width="1072" height="510"/>
+	<SubTexture name="ringscreenONE0008" x="0" y="0" width="1072" height="510"/>
+	<SubTexture name="ringscreenONE0009" x="0" y="0" width="1072" height="510"/>
+	<SubTexture name="ringscreenONE0010" x="0" y="0" width="1072" height="510"/>
+	<SubTexture name="ringscreenONE0011" x="0" y="0" width="1072" height="510"/>
+	<SubTexture name="ringscreenONE0012" x="0" y="0" width="1072" height="510"/>
+	<SubTexture name="ringscreenONE0013" x="0" y="0" width="1072" height="510"/>
+	<SubTexture name="ringscreenTHREE0000" x="0" y="510" width="1072" height="510"/>
+	<SubTexture name="ringscreenTHREE0001" x="0" y="510" width="1072" height="510"/>
+	<SubTexture name="ringscreenTHREE0002" x="0" y="510" width="1072" height="510"/>
+	<SubTexture name="ringscreenTHREE0003" x="0" y="510" width="1072" height="510"/>
+	<SubTexture name="ringscreenTHREE0004" x="0" y="510" width="1072" height="510"/>
+	<SubTexture name="ringscreenTHREE0005" x="0" y="510" width="1072" height="510"/>
+	<SubTexture name="ringscreenTHREE0006" x="0" y="510" width="1072" height="510"/>
+	<SubTexture name="ringscreenTHREE0007" x="0" y="510" width="1072" height="510"/>
+	<SubTexture name="ringscreenTHREE0008" x="0" y="510" width="1072" height="510"/>
+	<SubTexture name="ringscreenTHREE0009" x="0" y="510" width="1072" height="510"/>
+	<SubTexture name="ringscreenTHREE0010" x="0" y="510" width="1072" height="510"/>
+	<SubTexture name="ringscreenTHREE0011" x="0" y="510" width="1072" height="510"/>
+	<SubTexture name="ringscreenTHREE0012" x="0" y="510" width="1072" height="510"/>
+	<SubTexture name="ringscreenTHREE0013" x="0" y="510" width="1072" height="510"/>
+	<SubTexture name="ringscreenTWO0000" x="0" y="1020" width="1072" height="510"/>
+	<SubTexture name="ringscreenTWO0001" x="0" y="1020" width="1072" height="510"/>
+	<SubTexture name="ringscreenTWO0002" x="0" y="1020" width="1072" height="510"/>
+	<SubTexture name="ringscreenTWO0003" x="0" y="1020" width="1072" height="510"/>
+	<SubTexture name="ringscreenTWO0004" x="0" y="1020" width="1072" height="510"/>
+	<SubTexture name="ringscreenTWO0005" x="0" y="1020" width="1072" height="510"/>
+	<SubTexture name="ringscreenTWO0006" x="0" y="1020" width="1072" height="510"/>
+	<SubTexture name="ringscreenTWO0007" x="0" y="1020" width="1072" height="510"/>
+	<SubTexture name="ringscreenTWO0008" x="0" y="1020" width="1072" height="510"/>
+	<SubTexture name="ringscreenTWO0009" x="0" y="1020" width="1072" height="510"/>
+	<SubTexture name="ringscreenTWO0010" x="0" y="1020" width="1072" height="510"/>
+	<SubTexture name="ringscreenTWO0011" x="0" y="1020" width="1072" height="510"/>
+	<SubTexture name="ringscreenTWO0012" x="0" y="1020" width="1072" height="510"/>
+	<SubTexture name="ringscreenTWO0013" x="0" y="1020" width="1072" height="510"/>
+</TextureAtlas>

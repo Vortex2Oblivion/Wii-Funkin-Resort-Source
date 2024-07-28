@@ -1,0 +1,14 @@
+Tweens MirrorRepeat X and Y axis;
+
+value1 = l/r/up/d
+
+----------------------
+---- "l" for left ----
+---- "r" for right ---
+---- "up" for up -----
+---- "d" for down ----
+----------------------
+
+("up" for up duh)
+
+event by leKendrickfnf

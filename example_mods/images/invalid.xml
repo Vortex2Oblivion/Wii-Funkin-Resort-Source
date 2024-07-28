@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="invalid.png">
+	<!-- Created with Adobe Animate version 21.0.6.41649 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="invalid bounce0000" x="0" y="0" width="3000" height="1400"/>
+	<SubTexture name="invalid bounce0001" x="0" y="0" width="3000" height="1400"/>
+	<SubTexture name="invalid bounce0002" x="3000" y="0" width="3000" height="1400"/>
+	<SubTexture name="invalid bounce0003" x="3000" y="0" width="3000" height="1400"/>
+	<SubTexture name="invalid bounce0004" x="0" y="1400" width="3000" height="1400"/>
+	<SubTexture name="invalid bounce0005" x="0" y="1400" width="3000" height="1400"/>
+	<SubTexture name="invalid bounce0006" x="0" y="1400" width="3000" height="1400"/>
+	<SubTexture name="invalid bounce0007" x="0" y="1400" width="3000" height="1400"/>
+	<SubTexture name="invalid bounce0008" x="3000" y="1400" width="3000" height="1400"/>
+	<SubTexture name="invalid bounce0009" x="3000" y="1400" width="3000" height="1400"/>
+	<SubTexture name="invalid bounce0010" x="3000" y="1400" width="3000" height="1400"/>
+	<SubTexture name="invalid bounce0011" x="3000" y="1400" width="3000" height="1400"/>
+	<SubTexture name="invalid bounce0012" x="3000" y="1400" width="3000" height="1400"/>
+	<SubTexture name="invalid bounce0013" x="3000" y="1400" width="3000" height="1400"/>
+</TextureAtlas>

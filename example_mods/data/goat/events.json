@@ -1,0 +1,13 @@
+{
+  "song": {
+    "events": [
+      [
+        0,
+        [
+          ["Zoom Camera", "0.8", ""],
+          ["Cinematics (With HUD)", "0.5", "120"]
+        ]
+      ]
+    ]
+  }
+}

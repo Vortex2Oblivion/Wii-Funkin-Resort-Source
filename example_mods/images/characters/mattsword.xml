@@ -1,0 +1,34 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="mattsword.png"><SubTexture name="wfrm1 idle0000" x="0" y="0" width="744" height="591" frameX="0" frameY="0" frameWidth="744" frameHeight="591" />
+<SubTexture name="wfrm1 idle0001" x="744" y="0" width="744" height="591" frameX="0" frameY="0" frameWidth="744" frameHeight="591" />
+<SubTexture name="wfrm1 idle0002" x="1488" y="0" width="744" height="591" frameX="0" frameY="0" frameWidth="744" frameHeight="591" />
+<SubTexture name="wfrm1 idle0003" x="2232" y="0" width="744" height="591" frameX="0" frameY="0" frameWidth="744" frameHeight="591" />
+<SubTexture name="wfrm1 idle0004" x="2976" y="0" width="744" height="591" frameX="0" frameY="0" frameWidth="744" frameHeight="591" />
+<SubTexture name="wfrm1 idle0005" x="0" y="591" width="744" height="591" frameX="0" frameY="0" frameWidth="744" frameHeight="591" />
+<SubTexture name="wfrm1 idle0006" x="744" y="591" width="744" height="591" frameX="0" frameY="0" frameWidth="744" frameHeight="591" />
+<SubTexture name="wfrm1 left0000" x="1488" y="591" width="744" height="591" frameX="0" frameY="0" frameWidth="744" frameHeight="591" />
+<SubTexture name="wfrm1 left0001" x="2232" y="591" width="744" height="591" frameX="0" frameY="0" frameWidth="744" frameHeight="591" />
+<SubTexture name="wfrm1 left0002" x="2976" y="591" width="744" height="591" frameX="0" frameY="0" frameWidth="744" frameHeight="591" />
+<SubTexture name="wfrm1 left0003" x="0" y="1182" width="744" height="591" frameX="0" frameY="0" frameWidth="744" frameHeight="591" />
+<SubTexture name="wfrm1 down0000" x="744" y="1182" width="744" height="591" frameX="0" frameY="0" frameWidth="744" frameHeight="591" />
+<SubTexture name="wfrm1 down0001" x="1488" y="1182" width="744" height="591" frameX="0" frameY="0" frameWidth="744" frameHeight="591" />
+<SubTexture name="wfrm1 down0002" x="2232" y="1182" width="744" height="591" frameX="0" frameY="0" frameWidth="744" frameHeight="591" />
+<SubTexture name="wfrm1 down0003" x="2976" y="1182" width="744" height="591" frameX="0" frameY="0" frameWidth="744" frameHeight="591" />
+<SubTexture name="wfrm1 up0000" x="0" y="1773" width="744" height="591" frameX="0" frameY="0" frameWidth="744" frameHeight="591" />
+<SubTexture name="wfrm1 up0001" x="744" y="1773" width="744" height="591" frameX="0" frameY="0" frameWidth="744" frameHeight="591" />
+<SubTexture name="wfrm1 up0002" x="1488" y="1773" width="744" height="591" frameX="0" frameY="0" frameWidth="744" frameHeight="591" />
+<SubTexture name="wfrm1 up0003" x="2232" y="1773" width="744" height="591" frameX="0" frameY="0" frameWidth="744" frameHeight="591" />
+<SubTexture name="wfrm1 right0000" x="2976" y="1773" width="744" height="591" frameX="0" frameY="0" frameWidth="744" frameHeight="591" />
+<SubTexture name="wfrm1 right0001" x="0" y="2364" width="744" height="591" frameX="0" frameY="0" frameWidth="744" frameHeight="591" />
+<SubTexture name="wfrm1 right0002" x="744" y="2364" width="744" height="591" frameX="0" frameY="0" frameWidth="744" frameHeight="591" />
+<SubTexture name="wfrm1 right0003" x="1488" y="2364" width="744" height="591" frameX="0" frameY="0" frameWidth="744" frameHeight="591" />
+<SubTexture name="wfrm1 pow0000" x="2232" y="2364" width="744" height="591" frameX="0" frameY="0" frameWidth="744" frameHeight="591" />
+<SubTexture name="wfrm1 pow0001" x="2976" y="2364" width="744" height="591" frameX="0" frameY="0" frameWidth="744" frameHeight="591" />
+<SubTexture name="wfrm1 pow0002" x="0" y="2955" width="744" height="591" frameX="0" frameY="0" frameWidth="744" frameHeight="591" />
+<SubTexture name="wfrm1 pow0003" x="744" y="2955" width="744" height="591" frameX="0" frameY="0" frameWidth="744" frameHeight="591" />
+<SubTexture name="wfrm1 pow0004" x="1488" y="2955" width="744" height="591" frameX="0" frameY="0" frameWidth="744" frameHeight="591" />
+<SubTexture name="wfrm1 pow0005" x="2232" y="2955" width="744" height="591" frameX="0" frameY="0" frameWidth="744" frameHeight="591" />
+<SubTexture name="wfrm1 pow0006" x="2976" y="2955" width="744" height="591" frameX="0" frameY="0" frameWidth="744" frameHeight="591" />
+<SubTexture name="wfrm1 pow0007" x="0" y="3546" width="744" height="591" frameX="0" frameY="0" frameWidth="744" frameHeight="591" />
+<SubTexture name="wfrm1 pow0008" x="744" y="3546" width="744" height="591" frameX="0" frameY="0" frameWidth="744" frameHeight="591" />
+</TextureAtlas>

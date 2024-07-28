@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="bolt.png">
+	<!-- Created with Adobe Animate version 21.0.7.42652 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="rayito0000" x="0" y="0" width="251" height="475" frameX="-11" frameY="-5" frameWidth="262" frameHeight="491"/>
+	<SubTexture name="rayito0001" x="0" y="478" width="239" height="491" frameX="-15" frameY="0" frameWidth="262" frameHeight="491"/>
+	<SubTexture name="rayito0002" x="254" y="0" width="235" height="460" frameX="-18" frameY="-21" frameWidth="262" frameHeight="491"/>
+	<SubTexture name="rayito0003" x="242" y="478" width="255" height="445" frameX="0" frameY="-29" frameWidth="262" frameHeight="491"/>
+</TextureAtlas>

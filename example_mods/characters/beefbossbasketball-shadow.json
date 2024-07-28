@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				210,
+				-280
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "BeefBossLeft01"
+		},
+		{
+			"offsets": [
+				10,
+				-320
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "BeefBossDown01"
+		},
+		{
+			"offsets": [
+				50,
+				-201
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "BeefBossUp01"
+		},
+		{
+			"offsets": [
+				20,
+				-230
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "BeefBossIdle01"
+		},
+		{
+			"offsets": [
+				-40,
+				-279
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "BeefBossRight01"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/BeefBoss",
+	"position": [
+		0,
+		0
+	],
+	"healthicon": "beef",
+	"flip_x": false,
+	"healthbar_colors": [
+		255,
+		176,
+		97
+	],
+	"camera_position": [
+		-190,
+		230
+	],
+	"sing_duration": 6.1,
+	"scale": 1
+}

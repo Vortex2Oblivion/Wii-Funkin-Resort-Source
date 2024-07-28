@@ -1,0 +1,6 @@
+Black Screen before countdown and all that;
+
+value1 = opacity (it can go from 1 to 0, you can even do 0.5)
+value2 = time
+
+event by leCoderfnf

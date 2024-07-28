@@ -1,0 +1,47 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="xcombo_assets.png">
+	<!-- Created with Adobe Animate version 21.0.7.42652 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="comboappear0000" x="0" y="906" width="239" height="134" frameX="-38" frameY="-45" frameWidth="312" frameHeight="261"/>
+	<SubTexture name="comboappear0001" x="0" y="906" width="239" height="134" frameX="-38" frameY="-45" frameWidth="312" frameHeight="261"/>
+	<SubTexture name="comboappear0002" x="465" y="936" width="204" height="110" frameX="-52" frameY="-50" frameWidth="312" frameHeight="261"/>
+	<SubTexture name="comboappear0003" x="465" y="936" width="204" height="110" frameX="-52" frameY="-50" frameWidth="312" frameHeight="261"/>
+	<SubTexture name="comboappear0004" x="1785" y="889" width="257" height="201" frameX="-28" frameY="-24" frameWidth="312" frameHeight="261"/>
+	<SubTexture name="comboappear0005" x="1206" y="900" width="261" height="205" frameX="-26" frameY="-23" frameWidth="312" frameHeight="261"/>
+	<SubTexture name="comboappear0006" x="1517" y="889" width="265" height="210" frameX="-24" frameY="-21" frameWidth="312" frameHeight="261"/>
+	<SubTexture name="comboappear0007" x="579" y="717" width="271" height="216" frameX="-21" frameY="-18" frameWidth="312" frameHeight="261"/>
+	<SubTexture name="comboappear0008" x="301" y="697" width="275" height="221" frameX="-18" frameY="-16" frameWidth="312" frameHeight="261"/>
+	<SubTexture name="comboappear0009" x="626" y="489" width="280" height="225" frameX="-16" frameY="-15" frameWidth="312" frameHeight="261"/>
+	<SubTexture name="comboappear0010" x="927" y="475" width="284" height="229" frameX="-14" frameY="-13" frameWidth="312" frameHeight="261"/>
+	<SubTexture name="comboappear0011" x="636" y="252" width="288" height="234" frameX="-12" frameY="-11" frameWidth="312" frameHeight="261"/>
+	<SubTexture name="comboappear0012" x="931" y="231" width="294" height="241" frameX="-9" frameY="-8" frameWidth="312" frameHeight="261"/>
+	<SubTexture name="comboappear0013" x="1262" y="0" width="298" height="246" frameX="-7" frameY="-6" frameWidth="312" frameHeight="261"/>
+	<SubTexture name="comboappear0014" x="626" y="0" width="302" height="249" frameX="-5" frameY="-5" frameWidth="312" frameHeight="261"/>
+	<SubTexture name="comboappear0015" x="315" y="0" width="308" height="256" frameX="-2" frameY="-2" frameWidth="312" frameHeight="261"/>
+	<SubTexture name="comboappear0016" x="0" y="0" width="312" height="261"/>
+	<SubTexture name="comboappear0017" x="0" y="0" width="312" height="261"/>
+	<SubTexture name="comboappear0018" x="0" y="0" width="312" height="261"/>
+	<SubTexture name="comboappear0019" x="0" y="0" width="312" height="261"/>
+	<SubTexture name="comboappear0020" x="0" y="0" width="312" height="261"/>
+	<SubTexture name="comboappear0021" x="0" y="0" width="312" height="261"/>
+	<SubTexture name="combodissappear0000" x="1846" y="676" width="199" height="107" frameX="-59" frameY="-40" frameWidth="328" frameHeight="228"/>
+	<SubTexture name="combodissappear0001" x="1846" y="676" width="199" height="107" frameX="-59" frameY="-40" frameWidth="328" frameHeight="228"/>
+	<SubTexture name="combodissappear0002" x="1846" y="676" width="199" height="107" frameX="-59" frameY="-40" frameWidth="328" frameHeight="228"/>
+	<SubTexture name="combodissappear0003" x="853" y="913" width="239" height="128" frameX="-40" frameY="-31" frameWidth="328" frameHeight="228"/>
+	<SubTexture name="combodissappear0004" x="853" y="913" width="239" height="128" frameX="-40" frameY="-31" frameWidth="328" frameHeight="228"/>
+	<SubTexture name="combodissappear0005" x="909" y="707" width="294" height="203" frameX="-17" frameY="-14" frameWidth="328" frameHeight="228"/>
+	<SubTexture name="combodissappear0006" x="0" y="697" width="298" height="206" frameX="-15" frameY="-13" frameWidth="328" frameHeight="228"/>
+	<SubTexture name="combodissappear0007" x="1214" y="690" width="300" height="207" frameX="-14" frameY="-12" frameWidth="328" frameHeight="228"/>
+	<SubTexture name="combodissappear0008" x="1541" y="676" width="302" height="210" frameX="-13" frameY="-10" frameWidth="328" frameHeight="228"/>
+	<SubTexture name="combodissappear0009" x="0" y="483" width="304" height="211" frameX="-12" frameY="-10" frameWidth="328" frameHeight="228"/>
+	<SubTexture name="combodissappear0010" x="315" y="482" width="308" height="212" frameX="-10" frameY="-9" frameWidth="328" frameHeight="228"/>
+	<SubTexture name="combodissappear0011" x="1228" y="473" width="310" height="214" frameX="-9" frameY="-8" frameWidth="328" frameHeight="228"/>
+	<SubTexture name="combodissappear0012" x="0" y="264" width="312" height="216" frameX="-8" frameY="-7" frameWidth="328" frameHeight="228"/>
+	<SubTexture name="combodissappear0013" x="1551" y="454" width="314" height="219" frameX="-7" frameY="-5" frameWidth="328" frameHeight="228"/>
+	<SubTexture name="combodissappear0014" x="315" y="259" width="318" height="220" frameX="-5" frameY="-5" frameWidth="328" frameHeight="228"/>
+	<SubTexture name="combodissappear0015" x="1228" y="249" width="320" height="221" frameX="-4" frameY="-4" frameWidth="328" frameHeight="228"/>
+	<SubTexture name="combodissappear0016" x="1563" y="228" width="322" height="223" frameX="-3" frameY="-3" frameWidth="328" frameHeight="228"/>
+	<SubTexture name="combodissappear0017" x="1563" y="0" width="324" height="225" frameX="-2" frameY="-2" frameWidth="328" frameHeight="228"/>
+	<SubTexture name="combodissappear0018" x="931" y="0" width="328" height="228"/>
+	<SubTexture name="xcombo0000" x="242" y="921" width="220" height="118"/>
+</TextureAtlas>

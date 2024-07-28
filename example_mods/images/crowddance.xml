@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="crowddance.png">
+	<!-- Created with Adobe Animate version 21.0.0.35450 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="cbounce10000" x="0" y="0" width="3000" height="1400"/>
+	<SubTexture name="cbounce10001" x="3000" y="0" width="3000" height="1400"/>
+	<SubTexture name="cbounce10002" x="0" y="1400" width="3000" height="1400"/>
+	<SubTexture name="cbounce10003" x="3000" y="1400" width="3000" height="1400"/>
+	<SubTexture name="cbounce10004" x="0" y="2800" width="3000" height="1400"/>
+	<SubTexture name="cbounce10005" x="3000" y="2800" width="3000" height="1400"/>
+	<SubTexture name="cbounce10006" x="0" y="4200" width="3000" height="1400"/>
+	<SubTexture name="cbounce10007" x="3000" y="4200" width="3000" height="1400"/>
+	<SubTexture name="cbounce10008" x="0" y="5600" width="3000" height="1400"/>
+	<SubTexture name="cbounce10009" x="3000" y="5600" width="3000" height="1400"/>
+</TextureAtlas>

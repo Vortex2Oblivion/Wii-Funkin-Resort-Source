@@ -1,0 +1,14 @@
+{
+  "song": {
+    "events": [
+      [0, [["Black Flash", "5", ""]]],
+      [
+        10267.3796791444,
+        [
+          ["Flash Camera", "1", ""],
+          ["Cinematics (With HUD)", "0.5", "90"]
+        ]
+      ]
+    ]
+  }
+}

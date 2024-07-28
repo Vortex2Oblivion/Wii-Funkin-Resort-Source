@@ -1,0 +1,3 @@
+Value 1: Set Toggle Trail
+
+Setting: 1 (Toggle Trail On), 0 (Toggle Trail Off)

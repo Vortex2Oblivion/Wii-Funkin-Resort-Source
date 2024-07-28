@@ -1,0 +1,7 @@
+Tweens mirrorZoom
+
+Value 1: Zoom Amount (1 default)
+Value 2: Duration (0.2 recommended)
+
+MAKE SURE THE SHADER IS ALREADY ENABLED
+duration is in steps

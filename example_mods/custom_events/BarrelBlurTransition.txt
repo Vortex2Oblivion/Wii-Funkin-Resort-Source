@@ -1,0 +1,7 @@
+Tweens BarrelBlurEffect
+
+Value 1: Duration (1 recommended)
+Value 2: Undefined
+
+MAKE SURE THE SHADER IS ALREADY ENABLED
+Event by leCharterfnf

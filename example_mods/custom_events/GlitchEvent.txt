@@ -1,0 +1,2 @@
+value1 = amount (very sensitive, put like 0.3 to have normal glitch)
+value2 = time

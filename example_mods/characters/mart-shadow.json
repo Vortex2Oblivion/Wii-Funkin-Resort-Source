@@ -1,0 +1,81 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				6,
+				-205
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "Down Anim"
+		},
+		{
+			"offsets": [
+				67,
+				-185
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "Left Anim"
+		},
+		{
+			"offsets": [
+				64,
+				-181
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "Up Anim"
+		},
+		{
+			"offsets": [
+				2,
+				-186
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "Idle Anim"
+		},
+		{
+			"offsets": [
+				-12,
+				-212
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "Right Anim"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/Mart_Assets",
+	"position": [
+		0,
+		300
+	],
+	"healthicon": "mart",
+	"angle": 0,
+	"flip_x": false,
+	"healthbar_colors": [
+		161,
+		161,
+		181
+	],
+	"camera_position": [
+		-120,
+		10
+	],
+	"sing_duration": 4,
+	"scale": 1,
+	"skewX": 0,
+	"skewY": 0
+}

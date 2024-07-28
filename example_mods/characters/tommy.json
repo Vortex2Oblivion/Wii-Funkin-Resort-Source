@@ -1,0 +1,53 @@
+{
+  "animations": [
+    {
+      "offsets": [0, 0],
+      "loop": false,
+      "fps": 24,
+      "anim": "idle",
+      "indices": [],
+      "name": "tommy idle"
+    },
+    {
+      "offsets": [47, -20],
+      "loop": false,
+      "fps": 24,
+      "anim": "singLEFT",
+      "indices": [],
+      "name": "tommy left"
+    },
+    {
+      "offsets": [0, 0],
+      "loop": false,
+      "fps": 24,
+      "anim": "singRIGHT",
+      "indices": [],
+      "name": "tommy right"
+    },
+    {
+      "offsets": [24, -6],
+      "loop": false,
+      "fps": 24,
+      "anim": "singDOWN",
+      "indices": [],
+      "name": "tommy down"
+    },
+    {
+      "offsets": [11, 56],
+      "loop": false,
+      "fps": 24,
+      "anim": "singUP",
+      "indices": [],
+      "name": "tommy up"
+    }
+  ],
+  "no_antialiasing": false,
+  "image": "characters/tommyshaded",
+  "position": [-30, 50],
+  "healthicon": "tommy",
+  "flip_x": false,
+  "healthbar_colors": [255, 56, 51],
+  "camera_position": [20, 50],
+  "sing_duration": 6.1,
+  "scale": 1
+}

@@ -1,0 +1,11 @@
+Tweens MirrorRepeat X/Y axis and Angle;
+
+value1 = l 1 or l 2
+	 r 1 or r 2
+
+l 1 = angle(-10); Y axis(-0.25 "up")
+l 2 = angle(-10); X axis(0.25 "right")
+r 1 = angle(10); Y axis(-0.25 "down")
+r 2 = angle(10); Y axis(0.25 "left")
+
+event by leKendrickfnf

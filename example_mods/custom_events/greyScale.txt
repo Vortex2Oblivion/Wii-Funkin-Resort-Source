@@ -1,0 +1,6 @@
+Tweens greyScale
+
+Value 1: Scale Amount (0 color, 1 greyScaled)
+Value 2: Duration (0.2 recommended)
+
+MAKE SURE THE SHADER IS ALREADY ENABLED

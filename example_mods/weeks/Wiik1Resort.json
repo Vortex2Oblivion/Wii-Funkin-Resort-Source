@@ -1,0 +1,17 @@
+{
+  "storyName": "A new take",
+  "difficulties": "hard",
+  "hideFreeplay": false,
+  "weekBackground": "wiik1",
+  "freeplayColor": [146, 113, 253],
+  "weekBefore": "tutorial",
+  "startUnlocked": true,
+  "songs": [
+    ["light-it-up-resort", "swordmatt", [255, 180, 0]],
+    ["ruckus-resort", "swordmatt", [255, 180, 0]],
+    ["target-practice-resort", "swordmatt", [255, 180, 0]]
+  ],
+  "weekCharacters": ["", "", ""],
+  "hideStoryMode": false,
+  "weekName": "Wiik1Resort"
+}

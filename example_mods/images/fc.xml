@@ -1,0 +1,41 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="fc.png">
+	<!-- Created with Adobe Animate version 21.0.7.42652 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="Fc_FuckingDIESHAHAHA0000" x="924" y="260" width="89" height="73" frameX="-40" frameY="-55" frameWidth="160" frameHeight="181"/>
+	<SubTexture name="Fc_FuckingDIESHAHAHA0001" x="924" y="260" width="89" height="73" frameX="-40" frameY="-55" frameWidth="160" frameHeight="181"/>
+	<SubTexture name="Fc_FuckingDIESHAHAHA0002" x="924" y="181" width="98" height="79" frameX="-29" frameY="-49" frameWidth="160" frameHeight="181"/>
+	<SubTexture name="Fc_FuckingDIESHAHAHA0003" x="924" y="181" width="98" height="79" frameX="-29" frameY="-49" frameWidth="160" frameHeight="181"/>
+	<SubTexture name="Fc_FuckingDIESHAHAHA0004" x="160" y="668" width="152" height="137" frameX="-4" frameY="-22" frameWidth="160" frameHeight="181"/>
+	<SubTexture name="Fc_FuckingDIESHAHAHA0005" x="480" y="532" width="156" height="141" frameX="-2" frameY="-20" frameWidth="160" frameHeight="181"/>
+	<SubTexture name="Fc_FuckingDIESHAHAHA0006" x="160" y="522" width="160" height="146" frameX="0" frameY="-18" frameWidth="160" frameHeight="181"/>
+	<SubTexture name="Fc_FuckingDIESHAHAHA0007" x="810" y="517" width="158" height="151" frameX="-1" frameY="-15" frameWidth="160" frameHeight="181"/>
+	<SubTexture name="Fc_FuckingDIESHAHAHA0008" x="654" y="509" width="156" height="157" frameX="-2" frameY="-12" frameWidth="160" frameHeight="181"/>
+	<SubTexture name="Fc_FuckingDIESHAHAHA0009" x="818" y="356" width="154" height="161" frameX="-3" frameY="-10" frameWidth="160" frameHeight="181"/>
+	<SubTexture name="Fc_FuckingDIESHAHAHA0010" x="144" y="356" width="152" height="166" frameX="-4" frameY="-8" frameWidth="160" frameHeight="181"/>
+	<SubTexture name="Fc_FuckingDIESHAHAHA0011" x="504" y="355" width="150" height="171" frameX="-5" frameY="-5" frameWidth="160" frameHeight="181"/>
+	<SubTexture name="Fc_FuckingDIESHAHAHA0012" x="358" y="355" width="146" height="177" frameX="-7" frameY="-2" frameWidth="160" frameHeight="181"/>
+	<SubTexture name="Fc_FuckingDIESHAHAHA0013" x="0" y="202" width="144" height="181" frameX="-8" frameY="0" frameWidth="160" frameHeight="181"/>
+	<SubTexture name="Fc_FuckingDIESHAHAHA0014" x="0" y="669" width="84" height="74" frameX="-34" frameY="-50" frameWidth="160" frameHeight="181"/>
+	<SubTexture name="Fc_FuckingDIESHAHAHA0015" x="506" y="673" width="82" height="74" frameX="-35" frameY="-50" frameWidth="160" frameHeight="181"/>
+	<SubTexture name="Fc_appear0000" x="928" y="78" width="91" height="74" frameX="-57" frameY="-64" frameWidth="198" frameHeight="202"/>
+	<SubTexture name="Fc_appear0001" x="928" y="78" width="91" height="74" frameX="-57" frameY="-64" frameWidth="198" frameHeight="202"/>
+	<SubTexture name="Fc_appear0002" x="636" y="666" width="160" height="137" frameX="-19" frameY="-32" frameWidth="198" frameHeight="202"/>
+	<SubTexture name="Fc_appear0003" x="320" y="532" width="160" height="142" frameX="-19" frameY="-30" frameWidth="198" frameHeight="202"/>
+	<SubTexture name="Fc_appear0004" x="0" y="522" width="160" height="147" frameX="-19" frameY="-27" frameWidth="198" frameHeight="202"/>
+	<SubTexture name="Fc_appear0005" x="654" y="356" width="164" height="153" frameX="-17" frameY="-24" frameWidth="198" frameHeight="202"/>
+	<SubTexture name="Fc_appear0006" x="192" y="197" width="166" height="159" frameX="-16" frameY="-21" frameWidth="198" frameHeight="202"/>
+	<SubTexture name="Fc_appear0007" x="380" y="191" width="170" height="164" frameX="-14" frameY="-19" frameWidth="198" frameHeight="202"/>
+	<SubTexture name="Fc_appear0008" x="566" y="186" width="172" height="169" frameX="-13" frameY="-16" frameWidth="198" frameHeight="202"/>
+	<SubTexture name="Fc_appear0009" x="748" y="181" width="176" height="175" frameX="-11" frameY="-13" frameWidth="198" frameHeight="202"/>
+	<SubTexture name="Fc_appear0010" x="748" y="0" width="180" height="181" frameX="-9" frameY="-10" frameWidth="198" frameHeight="202"/>
+	<SubTexture name="Fc_appear0011" x="566" y="0" width="182" height="186" frameX="-8" frameY="-8" frameWidth="198" frameHeight="202"/>
+	<SubTexture name="Fc_appear0012" x="380" y="0" width="186" height="191" frameX="-6" frameY="-5" frameWidth="198" frameHeight="202"/>
+	<SubTexture name="Fc_appear0013" x="192" y="0" width="188" height="197" frameX="-5" frameY="-2" frameWidth="198" frameHeight="202"/>
+	<SubTexture name="Fc_appear0014" x="0" y="0" width="192" height="202" frameX="-3" frameY="0" frameWidth="198" frameHeight="202"/>
+	<SubTexture name="Fc_appear0015" x="312" y="674" width="194" height="97" frameX="-2" frameY="-52" frameWidth="198" frameHeight="202"/>
+	<SubTexture name="Fc_appear0016" x="796" y="668" width="198" height="97" frameX="0" frameY="-52" frameWidth="198" frameHeight="202"/>
+	<SubTexture name="Fc_appear0017" x="0" y="383" width="104" height="85" frameX="-42" frameY="-55" frameWidth="198" frameHeight="202"/>
+	<SubTexture name="Fc_appear0018" x="928" y="0" width="96" height="78" frameX="-50" frameY="-60" frameWidth="198" frameHeight="202"/>
+	<SubTexture name="fc0000" x="928" y="0" width="96" height="78"/>
+</TextureAtlas>

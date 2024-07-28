@@ -1,0 +1,8 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="invalid_eve.png">
+<SubTexture name="invalid_eve invalid_bounce0000" x="0" y="0" width="746" height="1133" frameX="-1127" frameY="-267" frameWidth="3000" frameHeight="1400" />
+<SubTexture name="invalid_eve invalid_bounce0001" x="746" y="0" width="746" height="1133" frameX="-1127" frameY="-267" frameWidth="3000" frameHeight="1400" />
+<SubTexture name="invalid_eve invalid_bounce0002" x="1492" y="0" width="746" height="1133" frameX="-1127" frameY="-267" frameWidth="3000" frameHeight="1400" />
+<SubTexture name="invalid_eve invalid_bounce0003" x="1492" y="0" width="746" height="1133" frameX="-1127" frameY="-267" frameWidth="3000" frameHeight="1400" />
+<SubTexture name="invalid_eve invalid_bounce0004" x="2238" y="0" width="746" height="1133" frameX="-1127" frameY="-267" frameWidth="3000" frameHeight="1400" />
+</TextureAtlas>

@@ -1,0 +1,17 @@
+{
+  "storyName": "origin",
+  "difficulties": "hard",
+  "hideFreeplay": false,
+  "weekBackground": "wiik2",
+  "weekBefore": "tutorial",
+  "freeplayColor": [146, 113, 253],
+  "startUnlocked": true,
+  "weekCharacters": ["", "", ""],
+  "hideStoryMode": false,
+  "songs": [
+    ["blacklight", "boxmatt", [255, 180, 0]],
+    ["sporting-resort", "boxmatt", [255, 180, 0]],
+    ["boxing-match-resort", "boxmatt", [255, 180, 0]]
+  ],
+  "weekName": "Wiik2Resort"
+}

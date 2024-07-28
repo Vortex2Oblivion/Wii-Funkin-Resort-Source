@@ -1,0 +1,1006 @@
+{
+	"song": {
+		"events": [
+			[
+				0,
+				[
+					[
+						"mirrorZoom",
+						"1.5",
+						"0.2"
+					],
+					[
+						"Add Camera Zoom",
+						"",
+						""
+					],
+					[
+						"Set Cam Zooming",
+						"1",
+						""
+					]
+				]
+			],
+			[
+				167.910447761194,
+				[
+					[
+						"Add Camera Zoom",
+						"",
+						""
+					],
+					[
+						"mirrorZoom",
+						"2",
+						"0.2"
+					]
+				]
+			],
+			[
+				391.791044776119,
+				[
+					[
+						"Add Camera Zoom",
+						"",
+						""
+					],
+					[
+						"mirrorZoom",
+						"2.5",
+						"0.2"
+					]
+				]
+			],
+			[
+				895.522388059701,
+				[
+					[
+						"mirrorZoom",
+						"1",
+						"0.5"
+					],
+					[
+						"Add Camera Zoom",
+						"",
+						""
+					],
+					[
+						"Cinematics (With HUD)",
+						"0.5",
+						"50"
+					],
+					[
+						"Flash Camera",
+						"1",
+						""
+					],
+					[
+						"Zoom Camera",
+						"1.2",
+						"0.5"
+					]
+				]
+			],
+			[
+				14776.1194029851,
+				[
+					[
+						"Add Camera Zoom",
+						"",
+						""
+					],
+					[
+						"mirrorAngle",
+						"25",
+						"0.4"
+					],
+					[
+						"mirrorZoom",
+						"2",
+						"0.4"
+					],
+					[
+						"punch",
+						"1",
+						"1"
+					]
+				]
+			],
+			[
+				15223.8805970149,
+				[
+					[
+						"Add Camera Zoom",
+						"",
+						""
+					],
+					[
+						"mirrorZoom",
+						"1",
+						"0.5"
+					],
+					[
+						"Flash Camera",
+						"1",
+						""
+					],
+					[
+						"Zoom Camera",
+						"0.8",
+						"0.5"
+					]
+				]
+			],
+			[
+				36716.4179104478,
+				[
+					[
+						"Flash Camera",
+						"1",
+						""
+					],
+					[
+						"Cinematics (With HUD)",
+						"0.5",
+						"90"
+					],
+					[
+						"Screen Shake",
+						"0.2, 0.005",
+						""
+					],
+					[
+						"Add Camera Zoom",
+						"",
+						""
+					]
+				]
+			],
+			[
+				37164.1791044776,
+				[
+					[
+						"Add Camera Zoom",
+						"",
+						""
+					]
+				]
+			],
+			[
+				37611.9402985075,
+				[
+					[
+						"Image Flash",
+						"redvg",
+						"0.5"
+					],
+					[
+						"Cinematics (With HUD)",
+						"0.5",
+						"90"
+					],
+					[
+						"Screen Shake",
+						"0.2, 0.005",
+						""
+					],
+					[
+						"Add Camera Zoom",
+						"",
+						""
+					]
+				]
+			],
+			[
+				38059.7014925373,
+				[
+					[
+						"Add Camera Zoom",
+						"",
+						""
+					]
+				]
+			],
+			[
+				38507.4626865672,
+				[
+					[
+						"Image Flash",
+						"redvg",
+						"0.5"
+					],
+					[
+						"Cinematics (With HUD)",
+						"0.5",
+						"90"
+					],
+					[
+						"Screen Shake",
+						"0.2, 0.005",
+						""
+					],
+					[
+						"Add Camera Zoom",
+						"",
+						""
+					]
+				]
+			],
+			[
+				38955.223880597,
+				[
+					[
+						"Add Camera Zoom",
+						"",
+						""
+					]
+				]
+			],
+			[
+				39402.9850746269,
+				[
+					[
+						"Image Flash",
+						"redvg",
+						"0.5"
+					],
+					[
+						"Cinematics (With HUD)",
+						"0.5",
+						"90"
+					],
+					[
+						"Screen Shake",
+						"0.2, 0.005",
+						""
+					],
+					[
+						"Add Camera Zoom",
+						"",
+						""
+					]
+				]
+			],
+			[
+				39850.7462686567,
+				[
+					[
+						"Add Camera Zoom",
+						"",
+						""
+					]
+				]
+			],
+			[
+				40298.5074626866,
+				[
+					[
+						"Image Flash",
+						"redvg",
+						"0.5"
+					],
+					[
+						"Cinematics (With HUD)",
+						"0.5",
+						"90"
+					],
+					[
+						"Screen Shake",
+						"0.2, 0.005",
+						""
+					],
+					[
+						"Add Camera Zoom",
+						"",
+						""
+					]
+				]
+			],
+			[
+				40746.2686567164,
+				[
+					[
+						"Add Camera Zoom",
+						"",
+						""
+					]
+				]
+			],
+			[
+				41194.0298507463,
+				[
+					[
+						"Image Flash",
+						"redvg",
+						"0.5"
+					],
+					[
+						"Cinematics (With HUD)",
+						"0.5",
+						"90"
+					],
+					[
+						"Screen Shake",
+						"0.2, 0.005",
+						""
+					],
+					[
+						"Add Camera Zoom",
+						"",
+						""
+					]
+				]
+			],
+			[
+				41641.7910447761,
+				[
+					[
+						"Add Camera Zoom",
+						"",
+						""
+					]
+				]
+			],
+			[
+				42089.552238806,
+				[
+					[
+						"Image Flash",
+						"redvg",
+						"0.5"
+					],
+					[
+						"Cinematics (With HUD)",
+						"0.5",
+						"90"
+					],
+					[
+						"Screen Shake",
+						"0.2, 0.005",
+						""
+					],
+					[
+						"Add Camera Zoom",
+						"",
+						""
+					]
+				]
+			],
+			[
+				42537.3134328358,
+				[
+					[
+						"Add Camera Zoom",
+						"",
+						""
+					]
+				]
+			],
+			[
+				42985.0746268657,
+				[
+					[
+						"Image Flash",
+						"redvg",
+						"0.5"
+					],
+					[
+						"Cinematics (With HUD)",
+						"0.5",
+						"90"
+					],
+					[
+						"Screen Shake",
+						"0.2, 0.005",
+						""
+					],
+					[
+						"Add Camera Zoom",
+						"",
+						""
+					]
+				]
+			],
+			[
+				43432.8358208955,
+				[
+					[
+						"Add Camera Zoom",
+						"",
+						""
+					]
+				]
+			],
+			[
+				43880.5970149254,
+				[
+					[
+						"Image Flash",
+						"redvg",
+						"0.5"
+					],
+					[
+						"Cinematics (With HUD)",
+						"0.5",
+						"90"
+					],
+					[
+						"Screen Shake",
+						"0.2, 0.005",
+						""
+					],
+					[
+						"Add Camera Zoom",
+						"",
+						""
+					]
+				]
+			],
+			[
+				44328.3582089552,
+				[
+					[
+						"Add Camera Zoom",
+						"",
+						""
+					]
+				]
+			],
+			[
+				44776.1194029851,
+				[
+					[
+						"Image Flash",
+						"redvg",
+						"0.5"
+					],
+					[
+						"Cinematics (With HUD)",
+						"0.5",
+						"90"
+					],
+					[
+						"Screen Shake",
+						"0.2, 0.005",
+						""
+					],
+					[
+						"Add Camera Zoom",
+						"",
+						""
+					]
+				]
+			],
+			[
+				45223.8805970149,
+				[
+					[
+						"Add Camera Zoom",
+						"",
+						""
+					]
+				]
+			],
+			[
+				45671.6417910448,
+				[
+					[
+						"Image Flash",
+						"redvg",
+						"0.5"
+					],
+					[
+						"Cinematics (With HUD)",
+						"0.5",
+						"90"
+					],
+					[
+						"Screen Shake",
+						"0.2, 0.005",
+						""
+					],
+					[
+						"Add Camera Zoom",
+						"",
+						""
+					]
+				]
+			],
+			[
+				46119.4029850747,
+				[
+					[
+						"Add Camera Zoom",
+						"",
+						""
+					]
+				]
+			],
+			[
+				46567.1641791045,
+				[
+					[
+						"Image Flash",
+						"redvg",
+						"0.5"
+					],
+					[
+						"Cinematics (With HUD)",
+						"0.5",
+						"90"
+					],
+					[
+						"Screen Shake",
+						"0.2, 0.005",
+						""
+					],
+					[
+						"Add Camera Zoom",
+						"",
+						""
+					]
+				]
+			],
+			[
+				47014.9253731344,
+				[
+					[
+						"Add Camera Zoom",
+						"",
+						""
+					]
+				]
+			],
+			[
+				47462.6865671643,
+				[
+					[
+						"Image Flash",
+						"redvg",
+						"0.5"
+					],
+					[
+						"Cinematics (With HUD)",
+						"0.5",
+						"90"
+					],
+					[
+						"Screen Shake",
+						"0.2, 0.005",
+						""
+					],
+					[
+						"Add Camera Zoom",
+						"",
+						""
+					]
+				]
+			],
+			[
+				47910.4477611941,
+				[
+					[
+						"Add Camera Zoom",
+						"",
+						""
+					]
+				]
+			],
+			[
+				48358.208955224,
+				[
+					[
+						"Image Flash",
+						"redvg",
+						"0.5"
+					],
+					[
+						"Cinematics (With HUD)",
+						"0.5",
+						"90"
+					],
+					[
+						"Screen Shake",
+						"0.2, 0.005",
+						""
+					],
+					[
+						"Add Camera Zoom",
+						"",
+						""
+					]
+				]
+			],
+			[
+				48805.9701492538,
+				[
+					[
+						"Add Camera Zoom",
+						"",
+						""
+					]
+				]
+			],
+			[
+				49253.7313432837,
+				[
+					[
+						"Image Flash",
+						"redvg",
+						"0.5"
+					],
+					[
+						"Cinematics (With HUD)",
+						"0.5",
+						"90"
+					],
+					[
+						"Screen Shake",
+						"0.2, 0.005",
+						""
+					],
+					[
+						"Add Camera Zoom",
+						"",
+						""
+					]
+				]
+			],
+			[
+				49701.4925373135,
+				[
+					[
+						"Add Camera Zoom",
+						"",
+						""
+					]
+				]
+			],
+			[
+				50149.2537313434,
+				[
+					[
+						"Image Flash",
+						"redvg",
+						"0.5"
+					],
+					[
+						"Cinematics (With HUD)",
+						"0.5",
+						"90"
+					],
+					[
+						"Screen Shake",
+						"0.2, 0.005",
+						""
+					],
+					[
+						"Add Camera Zoom",
+						"",
+						""
+					]
+				]
+			],
+			[
+				50597.0149253732,
+				[
+					[
+						"Add Camera Zoom",
+						"",
+						""
+					]
+				]
+			],
+			[
+				51044.7761194031,
+				[
+					[
+						"Image Flash",
+						"redvg",
+						"0.5"
+					],
+					[
+						"Cinematics (With HUD)",
+						"0.5",
+						"90"
+					],
+					[
+						"Screen Shake",
+						"0.2, 0.005",
+						""
+					],
+					[
+						"Add Camera Zoom",
+						"",
+						""
+					]
+				]
+			],
+			[
+				51492.5373134329,
+				[
+					[
+						"Add Camera Zoom",
+						"",
+						""
+					]
+				]
+			],
+			[
+				51940.2985074628,
+				[
+					[
+						"Image Flash",
+						"redvg",
+						"0.5"
+					],
+					[
+						"Cinematics (With HUD)",
+						"0.5",
+						"90"
+					],
+					[
+						"Screen Shake",
+						"0.2, 0.005",
+						""
+					],
+					[
+						"Add Camera Zoom",
+						"",
+						""
+					]
+				]
+			],
+			[
+				52388.0597014926,
+				[
+					[
+						"Add Camera Zoom",
+						"",
+						""
+					]
+				]
+			],
+			[
+				52835.8208955225,
+				[
+					[
+						"Image Flash",
+						"redvg",
+						"0.5"
+					],
+					[
+						"Cinematics (With HUD)",
+						"0.5",
+						"90"
+					],
+					[
+						"Screen Shake",
+						"0.2, 0.005",
+						""
+					],
+					[
+						"Add Camera Zoom",
+						"",
+						""
+					]
+				]
+			],
+			[
+				53283.5820895523,
+				[
+					[
+						"Add Camera Zoom",
+						"",
+						""
+					]
+				]
+			],
+			[
+				53731.3432835822,
+				[
+					[
+						"Image Flash",
+						"redvg",
+						"0.5"
+					],
+					[
+						"Cinematics (With HUD)",
+						"0.5",
+						"90"
+					],
+					[
+						"Screen Shake",
+						"0.2, 0.005",
+						""
+					],
+					[
+						"Add Camera Zoom",
+						"",
+						""
+					]
+				]
+			],
+			[
+				54179.104477612,
+				[
+					[
+						"Add Camera Zoom",
+						"",
+						""
+					]
+				]
+			],
+			[
+				54626.8656716419,
+				[
+					[
+						"Image Flash",
+						"redvg",
+						"0.5"
+					],
+					[
+						"Cinematics (With HUD)",
+						"0.5",
+						"90"
+					],
+					[
+						"Screen Shake",
+						"0.2, 0.005",
+						""
+					],
+					[
+						"Add Camera Zoom",
+						"",
+						""
+					]
+				]
+			],
+			[
+				55074.6268656717,
+				[
+					[
+						"Add Camera Zoom",
+						"",
+						""
+					]
+				]
+			],
+			[
+				55522.3880597016,
+				[
+					[
+						"Image Flash",
+						"redvg",
+						"0.5"
+					],
+					[
+						"Cinematics (With HUD)",
+						"0.5",
+						"90"
+					],
+					[
+						"Screen Shake",
+						"0.2, 0.005",
+						""
+					],
+					[
+						"Add Camera Zoom",
+						"",
+						""
+					]
+				]
+			],
+			[
+				55970.1492537314,
+				[
+					[
+						"Add Camera Zoom",
+						"",
+						""
+					]
+				]
+			],
+			[
+				56417.9104477613,
+				[
+					[
+						"Image Flash",
+						"redvg",
+						"0.5"
+					],
+					[
+						"Cinematics (With HUD)",
+						"0.5",
+						"90"
+					],
+					[
+						"Screen Shake",
+						"0.2, 0.005",
+						""
+					],
+					[
+						"Add Camera Zoom",
+						"",
+						""
+					]
+				]
+			],
+			[
+				56865.6716417911,
+				[
+					[
+						"Add Camera Zoom",
+						"",
+						""
+					]
+				]
+			],
+			[
+				57313.432835821,
+				[
+					[
+						"Image Flash",
+						"redvg",
+						"0.5"
+					],
+					[
+						"Cinematics (With HUD)",
+						"0.5",
+						"90"
+					],
+					[
+						"Screen Shake",
+						"0.2, 0.005",
+						""
+					],
+					[
+						"Add Camera Zoom",
+						"",
+						""
+					]
+				]
+			],
+			[
+				57761.1940298508,
+				[
+					[
+						"Add Camera Zoom",
+						"",
+						""
+					]
+				]
+			],
+			[
+				58208.9552238807,
+				[
+					[
+						"Cinematics (With HUD)",
+						"0.5",
+						"50"
+					]
+				]
+			],
+			[
+				86865.6716417912,
+				[
+					[
+						"Flash Camera",
+						"1",
+						""
+					]
+				]
+			],
+			[
+				101194.029850746,
+				[
+					[
+						"Flash Camera",
+						"1",
+						""
+					]
+				]
+			]
+		]
+	}
+}

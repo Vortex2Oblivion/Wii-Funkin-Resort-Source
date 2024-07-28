@@ -1,0 +1,53 @@
+{
+  "animations": [
+    {
+      "loop": false,
+      "offsets": [60, -253],
+      "anim": "singDOWN",
+      "fps": 24,
+      "name": "MattWiiDown01",
+      "indices": []
+    },
+    {
+      "loop": false,
+      "offsets": [0, -200],
+      "anim": "idle",
+      "fps": 24,
+      "name": "MattWiiIdle01",
+      "indices": []
+    },
+    {
+      "loop": false,
+      "offsets": [-37, -183],
+      "anim": "singUP",
+      "fps": 24,
+      "name": "MattWiiUp01",
+      "indices": []
+    },
+    {
+      "loop": false,
+      "offsets": [124, -240],
+      "anim": "singLEFT",
+      "fps": 24,
+      "name": "MattWiiRight",
+      "indices": []
+    },
+    {
+      "loop": false,
+      "offsets": [-30, -253],
+      "anim": "singRIGHT",
+      "fps": 24,
+      "name": "MattWiiLeft",
+      "indices": []
+    }
+  ],
+  "no_antialiasing": false,
+  "image": "characters/MattWii",
+  "position": [0, 0],
+  "healthicon": "mattbasketball",
+  "flip_x": false,
+  "healthbar_colors": [255, 107, 8],
+  "camera_position": [-120, 230],
+  "sing_duration": 6.1,
+  "scale": 1
+}

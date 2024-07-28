@@ -1,0 +1,702 @@
+{
+  "song": {
+    "events": [
+      [
+        0,
+        [
+          ["changeObjectShader", "effect weird", "dad"],
+          ["changeObjectShader", "rgbeffect3", "ground"],
+          ["changeObjectShader", "rgbeffect3", "green"],
+          ["changeObjectShader", "rgbeffect3", "G"],
+          ["changeObjectShader", "rgbeffect3", "S"],
+          ["Black Flash", "1", ""],
+          ["Cinematics (With HUD)", "0.5", "50"],
+          ["changeObjectShader", "glitch", "bar"]
+        ]
+      ],
+      [
+        2400,
+        [
+          ["Add Camera Zoom", "", ""],
+          ["Black Flash", "1", ""],
+          ["Screen Shake", "0.15, 0.003", "0.15, 0.003"]
+        ]
+      ],
+      [6900, [["Add Camera Zoom", "", ""]]],
+      [
+        7200,
+        [
+          ["Add Camera Zoom", "", ""],
+          ["Black Flash", "1", ""],
+          ["Screen Shake", "0.15, 0.003", "0.15, 0.003"]
+        ]
+      ],
+      [
+        12000,
+        [
+          ["Flash Camera", "1", ""],
+          ["Zoom Camera", "0.9", ""],
+          ["Cinematics (With HUD)", "0.5", "70"],
+          ["Add Camera Zoom", "0.05", ""]
+        ]
+      ],
+      [12450, [["Add Camera Zoom", "0.05", ""]]],
+      [12900, [["Add Camera Zoom", "0.05", ""]]],
+      [14100, [["Add Camera Zoom", "0.05", ""]]],
+      [14400, [["Add Camera Zoom", "0.05", ""]]],
+      [14850, [["Add Camera Zoom", "0.05", ""]]],
+      [15300, [["Add Camera Zoom", "0.05", ""]]],
+      [16500, [["Add Camera Zoom", "0.05", ""]]],
+      [16800, [["Add Camera Zoom", "0.05", ""]]],
+      [17250, [["Add Camera Zoom", "0.05", ""]]],
+      [17700, [["Add Camera Zoom", "0.05", ""]]],
+      [18900, [["Add Camera Zoom", "0.05", ""]]],
+      [19200, [["Add Camera Zoom", "0.05", ""]]],
+      [19650, [["Add Camera Zoom", "0.05", ""]]],
+      [20100, [["Add Camera Zoom", "0.05", ""]]],
+      [21300, [["Add Camera Zoom", "0.05", ""]]],
+      [21600, [["Add Camera Zoom", "0.05", ""]]],
+      [22050, [["Add Camera Zoom", "0.05", ""]]],
+      [22500, [["Add Camera Zoom", "0.05", ""]]],
+      [23700, [["Add Camera Zoom", "0.05", ""]]],
+      [24000, [["Add Camera Zoom", "0.05", ""]]],
+      [24450, [["Add Camera Zoom", "0.05", ""]]],
+      [24900, [["Add Camera Zoom", "0.05", ""]]],
+      [26100, [["Add Camera Zoom", "0.05", ""]]],
+      [26400, [["Add Camera Zoom", "0.05", ""]]],
+      [26850, [["Add Camera Zoom", "0.05", ""]]],
+      [27300, [["Add Camera Zoom", "0.05", ""]]],
+      [28500, [["Add Camera Zoom", "0.05", ""]]],
+      [28800, [["Add Camera Zoom", "0.05", ""]]],
+      [29250, [["Add Camera Zoom", "0.05", ""]]],
+      [29700, [["Add Camera Zoom", "0.05", ""]]],
+      [
+        31200,
+        [
+          ["Add Camera Zoom", "0.05", ""],
+          ["Screen Shake", "0.2, 0.005", "0.2, 0.005"],
+          ["Screen Tilt", "-5", "0.5"],
+          ["Flash Camera", "1", ""]
+        ]
+      ],
+      [
+        33300,
+        [
+          ["Screen Tilt", "-5", "0.5"],
+          ["Screen Shake", "0.2, 0.005", "0.2, 0.005"],
+          ["Screen Tilt", "5", "0.5"]
+        ]
+      ],
+      [
+        33600,
+        [
+          ["Add Camera Zoom", "0.05", ""],
+          ["Screen Shake", "0.2, 0.005", "0.2, 0.005"],
+          ["Screen Tilt", "-5", "0.5"]
+        ]
+      ],
+      [
+        34050,
+        [
+          ["Screen Tilt", "5", "0.5"],
+          ["Screen Shake", "0.2, 0.005", "0.2, 0.005"],
+          ["Add Camera Zoom", "0.05", ""]
+        ]
+      ],
+      [
+        34500,
+        [
+          ["Screen Tilt", "-5", "0.5"],
+          ["Add Camera Zoom", "0.05", ""],
+          ["Screen Shake", "0.2, 0.005", "0.2, 0.005"]
+        ]
+      ],
+      [
+        35625,
+        [
+          ["Screen Tilt", "5", "0.5"],
+          ["Zoom Camera", "0.7", "0.5"]
+        ]
+      ],
+      [
+        36000,
+        [
+          ["Add Camera Zoom", "0.05", ""],
+          ["Screen Shake", "0.2, 0.005", "0.2, 0.005"],
+          ["Screen Tilt", "-5", "0.5"]
+        ]
+      ],
+      [
+        38100,
+        [
+          ["Screen Tilt", "-5", "0.5"],
+          ["Screen Shake", "0.2, 0.005", "0.2, 0.005"],
+          ["Screen Tilt", "5", "0.5"]
+        ]
+      ],
+      [
+        38400,
+        [
+          ["Add Camera Zoom", "0.05", ""],
+          ["Screen Shake", "0.2, 0.005", "0.2, 0.005"],
+          ["Screen Tilt", "-5", "0.5"]
+        ]
+      ],
+      [
+        38850,
+        [
+          ["Screen Tilt", "5", "0.5"],
+          ["Screen Shake", "0.2, 0.005", "0.2, 0.005"],
+          ["Add Camera Zoom", "0.05", ""]
+        ]
+      ],
+      [
+        39300,
+        [
+          ["Screen Tilt", "-5", "0.5"],
+          ["Add Camera Zoom", "0.05", ""],
+          ["Screen Shake", "0.2, 0.005", "0.2, 0.005"]
+        ]
+      ],
+      [
+        40425,
+        [
+          ["Screen Tilt", "5", "0.5"],
+          ["Zoom Camera", "0.7", "0.5"]
+        ]
+      ],
+      [
+        40800,
+        [
+          ["Add Camera Zoom", "0.05", ""],
+          ["Screen Shake", "0.2, 0.005", "0.2, 0.005"],
+          ["Screen Tilt", "-5", "0.5"],
+          ["Flash Camera", "1", ""],
+          ["Zoom Camera", "0.9", ""]
+        ]
+      ],
+      [
+        42900,
+        [
+          ["Screen Tilt", "-5", "0.5"],
+          ["Screen Shake", "0.2, 0.005", "0.2, 0.005"],
+          ["Screen Tilt", "5", "0.5"]
+        ]
+      ],
+      [
+        43200,
+        [
+          ["Add Camera Zoom", "0.05", ""],
+          ["Screen Shake", "0.2, 0.005", "0.2, 0.005"],
+          ["Screen Tilt", "-5", "0.5"]
+        ]
+      ],
+      [
+        43650,
+        [
+          ["Screen Tilt", "5", "0.5"],
+          ["Screen Shake", "0.2, 0.005", "0.2, 0.005"],
+          ["Add Camera Zoom", "0.05", ""]
+        ]
+      ],
+      [
+        44100,
+        [
+          ["Screen Tilt", "-5", "0.5"],
+          ["Add Camera Zoom", "0.05", ""],
+          ["Screen Shake", "0.2, 0.005", "0.2, 0.005"]
+        ]
+      ],
+      [
+        45225,
+        [
+          ["Screen Tilt", "5", "0.5"],
+          ["Zoom Camera", "0.7", "0.5"]
+        ]
+      ],
+      [
+        45600,
+        [
+          ["Add Camera Zoom", "0.05", ""],
+          ["Screen Shake", "0.2, 0.005", "0.2, 0.005"],
+          ["Screen Tilt", "-5", "0.5"]
+        ]
+      ],
+      [
+        47700,
+        [
+          ["Screen Tilt", "-5", "0.5"],
+          ["Screen Shake", "0.2, 0.005", "0.2, 0.005"],
+          ["Screen Tilt", "5", "0.5"]
+        ]
+      ],
+      [
+        48000,
+        [
+          ["Add Camera Zoom", "0.05", ""],
+          ["Screen Shake", "0.2, 0.005", "0.2, 0.005"],
+          ["Screen Tilt", "-5", "0.5"]
+        ]
+      ],
+      [
+        48450,
+        [
+          ["Screen Tilt", "5", "0.5"],
+          ["Screen Shake", "0.2, 0.005", "0.2, 0.005"],
+          ["Add Camera Zoom", "0.05", ""]
+        ]
+      ],
+      [
+        48900,
+        [
+          ["Screen Tilt", "-5", "0.5"],
+          ["Add Camera Zoom", "0.05", ""],
+          ["Screen Shake", "0.2, 0.005", "0.2, 0.005"]
+        ]
+      ],
+      [
+        50025,
+        [
+          ["Screen Tilt", "5", "0.5"],
+          ["Zoom Camera", "0.7", "0.5"]
+        ]
+      ],
+      [
+        50400,
+        [
+          ["Zoom Camera", "1.2", ""],
+          ["Cinematics (With HUD)", "0.5", "120"],
+          ["Black Flash", "1", ""]
+        ]
+      ],
+      [
+        60000,
+        [
+          ["Zoom Camera", "1", ""],
+          ["Cinematics (With HUD)", "0.5", "110"],
+          ["Black Flash", "1", ""]
+        ]
+      ],
+      [
+        69600,
+        [
+          ["Add Camera Zoom", "0.05", ""],
+          ["Screen Shake", "0.2, 0.005", "0.2, 0.005"],
+          ["Screen Tilt", "-5", "0.5"],
+          ["Flash Camera", "1", ""],
+          ["Cinematics (With HUD)", "0.5", "90"],
+          ["Zoom Camera", "0.9", "0.5"]
+        ]
+      ],
+      [
+        71700,
+        [
+          ["Screen Tilt", "-5", "0.5"],
+          ["Screen Shake", "0.2, 0.005", "0.2, 0.005"],
+          ["Screen Tilt", "5", "0.5"]
+        ]
+      ],
+      [
+        72000,
+        [
+          ["Add Camera Zoom", "0.05", ""],
+          ["Screen Shake", "0.2, 0.005", "0.2, 0.005"],
+          ["Screen Tilt", "-5", "0.5"]
+        ]
+      ],
+      [
+        72450,
+        [
+          ["Screen Tilt", "5", "0.5"],
+          ["Screen Shake", "0.2, 0.005", "0.2, 0.005"],
+          ["Add Camera Zoom", "0.05", ""]
+        ]
+      ],
+      [
+        72900,
+        [
+          ["Screen Tilt", "-5", "0.5"],
+          ["Add Camera Zoom", "0.05", ""],
+          ["Screen Shake", "0.2, 0.005", "0.2, 0.005"]
+        ]
+      ],
+      [
+        74025,
+        [
+          ["Screen Tilt", "5", "0.5"],
+          ["Zoom Camera", "0.7", "0.5"]
+        ]
+      ],
+      [
+        74400,
+        [
+          ["Add Camera Zoom", "0.05", ""],
+          ["Screen Shake", "0.2, 0.005", "0.2, 0.005"],
+          ["Screen Tilt", "-5", "0.5"]
+        ]
+      ],
+      [
+        76500,
+        [
+          ["Screen Tilt", "-5", "0.5"],
+          ["Screen Shake", "0.2, 0.005", "0.2, 0.005"],
+          ["Screen Tilt", "5", "0.5"]
+        ]
+      ],
+      [
+        76800,
+        [
+          ["Add Camera Zoom", "0.05", ""],
+          ["Screen Shake", "0.2, 0.005", "0.2, 0.005"],
+          ["Screen Tilt", "-5", "0.5"]
+        ]
+      ],
+      [
+        77250,
+        [
+          ["Screen Tilt", "5", "0.5"],
+          ["Screen Shake", "0.2, 0.005", "0.2, 0.005"],
+          ["Add Camera Zoom", "0.05", ""]
+        ]
+      ],
+      [
+        77700,
+        [
+          ["Screen Tilt", "-5", "0.5"],
+          ["Add Camera Zoom", "0.05", ""],
+          ["Screen Shake", "0.2, 0.005", "0.2, 0.005"]
+        ]
+      ],
+      [
+        78825,
+        [
+          ["Screen Tilt", "5", "0.5"],
+          ["Zoom Camera", "0.7", "0.5"]
+        ]
+      ],
+      [
+        79200,
+        [
+          ["Add Camera Zoom", "0.05", ""],
+          ["Screen Shake", "0.2, 0.005", "0.2, 0.005"],
+          ["Screen Tilt", "-5", "0.5"],
+          ["Flash Camera", "1", ""],
+          ["Zoom Camera", "0.9", ""]
+        ]
+      ],
+      [
+        81300,
+        [
+          ["Screen Tilt", "-5", "0.5"],
+          ["Screen Shake", "0.2, 0.005", "0.2, 0.005"],
+          ["Screen Tilt", "5", "0.5"]
+        ]
+      ],
+      [
+        81600,
+        [
+          ["Add Camera Zoom", "0.05", ""],
+          ["Screen Shake", "0.2, 0.005", "0.2, 0.005"],
+          ["Screen Tilt", "-5", "0.5"]
+        ]
+      ],
+      [
+        82050,
+        [
+          ["Screen Tilt", "5", "0.5"],
+          ["Screen Shake", "0.2, 0.005", "0.2, 0.005"],
+          ["Add Camera Zoom", "0.05", ""]
+        ]
+      ],
+      [
+        82500,
+        [
+          ["Screen Tilt", "-5", "0.5"],
+          ["Add Camera Zoom", "0.05", ""],
+          ["Screen Shake", "0.2, 0.005", "0.2, 0.005"]
+        ]
+      ],
+      [
+        83625,
+        [
+          ["Screen Tilt", "5", "0.5"],
+          ["Zoom Camera", "0.7", "0.5"]
+        ]
+      ],
+      [
+        84000,
+        [
+          ["Add Camera Zoom", "0.05", ""],
+          ["Screen Shake", "0.2, 0.005", "0.2, 0.005"],
+          ["Screen Tilt", "-5", "0.5"]
+        ]
+      ],
+      [
+        86100,
+        [
+          ["Screen Tilt", "-5", "0.5"],
+          ["Screen Shake", "0.2, 0.005", "0.2, 0.005"],
+          ["Screen Tilt", "5", "0.5"]
+        ]
+      ],
+      [
+        86400,
+        [
+          ["Add Camera Zoom", "0.05", ""],
+          ["Screen Shake", "0.2, 0.005", "0.2, 0.005"],
+          ["Screen Tilt", "-5", "0.5"]
+        ]
+      ],
+      [
+        86850,
+        [
+          ["Screen Tilt", "5", "0.5"],
+          ["Screen Shake", "0.2, 0.005", "0.2, 0.005"],
+          ["Add Camera Zoom", "0.05", ""]
+        ]
+      ],
+      [
+        87300,
+        [
+          ["Screen Tilt", "-5", "0.5"],
+          ["Add Camera Zoom", "0.05", ""],
+          ["Screen Shake", "0.2, 0.005", "0.2, 0.005"]
+        ]
+      ],
+      [
+        88425,
+        [
+          ["Screen Tilt", "5", "0.5"],
+          ["Zoom Camera", "0.7", "0.5"]
+        ]
+      ],
+      [
+        88800,
+        [
+          ["Add Camera Zoom", "0.05", ""],
+          ["Screen Shake", "0.2, 0.005", "0.2, 0.005"],
+          ["Screen Tilt", "-5", "0.5"],
+          ["Cinematics (With HUD)", "0.5", "50"]
+        ]
+      ],
+      [97800, [["Zoom Camera", "2", "2"]]],
+      [
+        98400,
+        [
+          ["Add Camera Zoom", "0.05", ""],
+          ["Screen Shake", "0.2, 0.005", "0.2, 0.005"],
+          ["Screen Tilt", "-5", "0.5"],
+          ["Flash Camera", "1", ""],
+          ["Cinematics (With HUD)", "0.5", "90"],
+          ["Zoom Camera", "0.9", "0.5"]
+        ]
+      ],
+      [
+        100500,
+        [
+          ["Screen Tilt", "-5", "0.5"],
+          ["Screen Shake", "0.2, 0.005", "0.2, 0.005"],
+          ["Screen Tilt", "5", "0.5"]
+        ]
+      ],
+      [
+        100800,
+        [
+          ["Add Camera Zoom", "0.05", ""],
+          ["Screen Shake", "0.2, 0.005", "0.2, 0.005"],
+          ["Screen Tilt", "-5", "0.5"]
+        ]
+      ],
+      [
+        101250,
+        [
+          ["Screen Tilt", "5", "0.5"],
+          ["Screen Shake", "0.2, 0.005", "0.2, 0.005"],
+          ["Add Camera Zoom", "0.05", ""]
+        ]
+      ],
+      [
+        101700,
+        [
+          ["Screen Tilt", "-5", "0.5"],
+          ["Add Camera Zoom", "0.05", ""],
+          ["Screen Shake", "0.2, 0.005", "0.2, 0.005"]
+        ]
+      ],
+      [
+        102825,
+        [
+          ["Screen Tilt", "5", "0.5"],
+          ["Zoom Camera", "0.7", "0.5"]
+        ]
+      ],
+      [
+        103200,
+        [
+          ["Add Camera Zoom", "0.05", ""],
+          ["Screen Shake", "0.2, 0.005", "0.2, 0.005"],
+          ["Screen Tilt", "-5", "0.5"]
+        ]
+      ],
+      [
+        105300,
+        [
+          ["Screen Tilt", "-5", "0.5"],
+          ["Screen Shake", "0.2, 0.005", "0.2, 0.005"],
+          ["Screen Tilt", "5", "0.5"]
+        ]
+      ],
+      [
+        105600,
+        [
+          ["Add Camera Zoom", "0.05", ""],
+          ["Screen Shake", "0.2, 0.005", "0.2, 0.005"],
+          ["Screen Tilt", "-5", "0.5"]
+        ]
+      ],
+      [
+        106050,
+        [
+          ["Screen Tilt", "5", "0.5"],
+          ["Screen Shake", "0.2, 0.005", "0.2, 0.005"],
+          ["Add Camera Zoom", "0.05", ""]
+        ]
+      ],
+      [
+        106500,
+        [
+          ["Screen Tilt", "-5", "0.5"],
+          ["Add Camera Zoom", "0.05", ""],
+          ["Screen Shake", "0.2, 0.005", "0.2, 0.005"]
+        ]
+      ],
+      [
+        107625,
+        [
+          ["Screen Tilt", "5", "0.5"],
+          ["Zoom Camera", "0.7", "0.5"]
+        ]
+      ],
+      [
+        108000,
+        [
+          ["Add Camera Zoom", "0.05", ""],
+          ["Screen Shake", "0.2, 0.005", "0.2, 0.005"],
+          ["Screen Tilt", "-5", "0.5"],
+          ["Flash Camera", "1", ""],
+          ["Zoom Camera", "0.9", ""]
+        ]
+      ],
+      [
+        110100,
+        [
+          ["Screen Tilt", "-5", "0.5"],
+          ["Screen Shake", "0.2, 0.005", "0.2, 0.005"],
+          ["Screen Tilt", "5", "0.5"]
+        ]
+      ],
+      [
+        110400,
+        [
+          ["Add Camera Zoom", "0.05", ""],
+          ["Screen Shake", "0.2, 0.005", "0.2, 0.005"],
+          ["Screen Tilt", "-5", "0.5"]
+        ]
+      ],
+      [
+        110850,
+        [
+          ["Screen Tilt", "5", "0.5"],
+          ["Screen Shake", "0.2, 0.005", "0.2, 0.005"],
+          ["Add Camera Zoom", "0.05", ""]
+        ]
+      ],
+      [
+        111300,
+        [
+          ["Screen Tilt", "-5", "0.5"],
+          ["Add Camera Zoom", "0.05", ""],
+          ["Screen Shake", "0.2, 0.005", "0.2, 0.005"]
+        ]
+      ],
+      [
+        112425,
+        [
+          ["Screen Tilt", "5", "0.5"],
+          ["Zoom Camera", "0.7", "0.5"]
+        ]
+      ],
+      [
+        112800,
+        [
+          ["Add Camera Zoom", "0.05", ""],
+          ["Screen Shake", "0.2, 0.005", "0.2, 0.005"],
+          ["Screen Tilt", "-5", "0.5"]
+        ]
+      ],
+      [
+        114900,
+        [
+          ["Screen Tilt", "-5", "0.5"],
+          ["Screen Shake", "0.2, 0.005", "0.2, 0.005"],
+          ["Screen Tilt", "5", "0.5"]
+        ]
+      ],
+      [
+        115200,
+        [
+          ["Add Camera Zoom", "0.05", ""],
+          ["Screen Shake", "0.2, 0.005", "0.2, 0.005"],
+          ["Screen Tilt", "-5", "0.5"]
+        ]
+      ],
+      [
+        115650,
+        [
+          ["Screen Tilt", "5", "0.5"],
+          ["Screen Shake", "0.2, 0.005", "0.2, 0.005"],
+          ["Add Camera Zoom", "0.05", ""]
+        ]
+      ],
+      [
+        116100,
+        [
+          ["Screen Tilt", "-5", "0.5"],
+          ["Add Camera Zoom", "0.05", ""],
+          ["Screen Shake", "0.2, 0.005", "0.2, 0.005"]
+        ]
+      ],
+      [
+        117225,
+        [
+          ["Screen Tilt", "5", "0.5"],
+          ["Zoom Camera", "0.7", "0.5"]
+        ]
+      ],
+      [117600, [["Add Camera Zoom", "0.05", ""]]],
+      [118050, [["Add Camera Zoom", "0.05", ""]]],
+      [118500, [["Add Camera Zoom", "0.05", ""]]],
+      [119700, [["Add Camera Zoom", "0.05", ""]]],
+      [120000, [["Add Camera Zoom", "0.05", ""]]],
+      [120450, [["Add Camera Zoom", "0.05", ""]]],
+      [120900, [["Add Camera Zoom", "0.05", ""]]],
+      [122100, [["Add Camera Zoom", "0.05", ""]]],
+      [122400, [["Add Camera Zoom", "0.05", ""]]],
+      [122850, [["Add Camera Zoom", "0.05", ""]]],
+      [123300, [["Add Camera Zoom", "0.05", ""]]],
+      [124500, [["Add Camera Zoom", "0.05", ""]]],
+      [124800, [["Add Camera Zoom", "0.05", ""]]],
+      [125250, [["Add Camera Zoom", "0.05", ""]]],
+      [125700, [["Add Camera Zoom", "0.05", ""]]],
+      [
+        127200,
+        [
+          ["Zoom Camera", "0.6", "0.5"],
+          ["Flash Camera", "1", ""],
+          ["Cinematics (With HUD)", "0.5", "30"],
+          ["changeCamShader", "bloom", "camGame"]
+        ]
+      ]
+    ]
+  }
+}

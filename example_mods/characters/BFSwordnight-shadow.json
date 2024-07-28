@@ -1,0 +1,125 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				164,
+				-98
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "down",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				71,
+				-147
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "up",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				89,
+				-142
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "right",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				145,
+				-164
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "left",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-93,
+				-162
+			],
+			"anim": "blockDOWN",
+			"fps": 24,
+			"name": "block down",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-9,
+				-157
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "idle",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-4,
+				-147
+			],
+			"anim": "blockUP",
+			"fps": 24,
+			"name": "block up",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-70,
+				-153
+			],
+			"anim": "blockRIGHT",
+			"fps": 24,
+			"name": "block right",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-75,
+				-159
+			],
+			"anim": "blockLEFT",
+			"fps": 24,
+			"name": "block left",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/BFSwordnight",
+	"position": [
+		-260,
+		310
+	],
+	"healthicon": "swordbf",
+	"angle": 0,
+	"flip_x": false,
+	"healthbar_colors": [
+		49,
+		176,
+		229
+	],
+	"camera_position": [
+		0,
+		0
+	],
+	"sing_duration": 6.1,
+	"scale": 1,
+	"skewX": 0,
+	"skewY": 0
+}

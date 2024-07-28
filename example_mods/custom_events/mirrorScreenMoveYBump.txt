@@ -1,0 +1,7 @@
+Tweens mirrorZoom
+
+Value 1: Y value (1 default)
+Value 2: Duration (in steps)
+
+MAKE SURE THE SHADER IS ALREADY ENABLED
+Event by fregnub

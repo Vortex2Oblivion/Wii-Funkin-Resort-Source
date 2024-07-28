@@ -1,0 +1,61 @@
+{
+  "animations": [
+    {
+      "offsets": [0, 0],
+      "loop": false,
+      "fps": 24,
+      "anim": "idle",
+      "indices": [],
+      "name": "wfrm1 idle"
+    },
+    {
+      "offsets": [24, -2],
+      "loop": false,
+      "fps": 24,
+      "anim": "singLEFT",
+      "indices": [],
+      "name": "wfrm1 left"
+    },
+    {
+      "offsets": [0, 0],
+      "loop": false,
+      "fps": 24,
+      "anim": "singDOWN",
+      "indices": [],
+      "name": "wfrm1 down"
+    },
+    {
+      "offsets": [73, -3],
+      "loop": false,
+      "fps": 24,
+      "anim": "singUP",
+      "indices": [],
+      "name": "wfrm1 up"
+    },
+    {
+      "offsets": [0, 0],
+      "loop": false,
+      "fps": 25,
+      "anim": "singRIGHT",
+      "indices": [],
+      "name": "wfrm1 right"
+    },
+    {
+      "offsets": [0, 0],
+      "loop": false,
+      "fps": 25,
+      "anim": "slash",
+      "indices": [],
+      "name": "wfrm1 pow"
+    }
+  ],
+  "no_antialiasing": false,
+  "image": "characters/mattswordeve",
+  "position": [0, 200],
+  "healthicon": "swordmatt",
+  "flip_x": false,
+  "healthbar_colors": [255, 135, 0],
+  "camera_position": [0, 0],
+  "sing_duration": 6.1,
+  "scale": 1
+}

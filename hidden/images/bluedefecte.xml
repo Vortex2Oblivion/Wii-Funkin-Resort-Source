@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+Created with Funkin Packer v0.1.3 https://neeeoo.github.io/funkin-packer/
+-->
+<TextureAtlas imagePath="bluedefecte.png" width="8183" height="1560">
+	<SubTexture name="bluedefecte idle0000" x="612" y="460" width="655" height="474" rotated="true" frameX="-110" frameY="-46" frameWidth="709" frameHeight="730"/>
+	<SubTexture name="bluedefecte idle0001" x="612" y="460" width="655" height="474" rotated="true" frameX="-110" frameY="-46" frameWidth="709" frameHeight="730"/>
+	<SubTexture name="bluedefecte idle0002" x="5202" y="0" width="642" height="470" rotated="true" frameX="-115" frameY="-62" frameWidth="709" frameHeight="730"/>
+	<SubTexture name="bluedefecte idle0003" x="5202" y="0" width="642" height="470" rotated="true" frameX="-115" frameY="-62" frameWidth="709" frameHeight="730"/>
+	<SubTexture name="bluedefecte idle0004" x="1294" y="0" width="667" height="460" rotated="true" frameX="-112" frameY="-32" frameWidth="709" frameHeight="730"/>
+	<SubTexture name="bluedefecte idle0005" x="1961" y="0" width="663" height="460" rotated="true" frameX="-112" frameY="-32" frameWidth="709" frameHeight="730"/>
+	<SubTexture name="bluedefecte idle0006" x="0" y="934" width="614" height="506" rotated="true" frameX="-66" frameY="-81" frameWidth="709" frameHeight="730"/>
+	<SubTexture name="bluedefecte idle0007" x="7677" y="612" width="506" height="612" frameX="-66" frameY="-81" frameWidth="709" frameHeight="730"/>
+	<SubTexture name="bluedefecte idle0008" x="3917" y="0" width="647" height="469" rotated="true" frameX="-110" frameY="-46" frameWidth="709" frameHeight="730"/>
+	<SubTexture name="bluedefecte idle0009" x="3917" y="0" width="647" height="469" rotated="true" frameX="-110" frameY="-46" frameWidth="709" frameHeight="730"/>
+	<SubTexture name="bluedefecte idle0010" x="5844" y="0" width="631" height="470" rotated="true" frameX="-115" frameY="-62" frameWidth="709" frameHeight="730"/>
+	<SubTexture name="bluedefecte idle0011" x="5844" y="0" width="631" height="470" rotated="true" frameX="-115" frameY="-62" frameWidth="709" frameHeight="730"/>
+	<SubTexture name="bluedefecte idle0012" x="2624" y="0" width="661" height="460" rotated="true" frameX="-112" frameY="-32" frameWidth="709" frameHeight="730"/>
+	<SubTexture name="bluedefecte idle0013" x="2624" y="0" width="661" height="460" rotated="true" frameX="-112" frameY="-32" frameWidth="709" frameHeight="730"/>
+	<SubTexture name="bluedefecte idle0014" x="7677" y="612" width="506" height="612" frameX="-66" frameY="-81" frameWidth="709" frameHeight="730"/>
+	<SubTexture name="bluedefecte idle0015" x="7677" y="612" width="506" height="612" frameX="-66" frameY="-81" frameWidth="709" frameHeight="730"/>
+	<SubTexture name="bluedefecte idle0016" x="3917" y="0" width="647" height="469" rotated="true" frameX="-110" frameY="-46" frameWidth="709" frameHeight="730"/>
+	<SubTexture name="bluedefecte idle0017" x="3917" y="0" width="647" height="469" rotated="true" frameX="-110" frameY="-46" frameWidth="709" frameHeight="730"/>
+	<SubTexture name="bluedefecte idle0018" x="5844" y="0" width="631" height="470" rotated="true" frameX="-115" frameY="-62" frameWidth="709" frameHeight="730"/>
+	<SubTexture name="bluedefecte idle0019" x="5844" y="0" width="631" height="470" rotated="true" frameX="-115" frameY="-62" frameWidth="709" frameHeight="730"/>
+	<SubTexture name="bluedefecte idle0020" x="2624" y="0" width="661" height="460" rotated="true" frameX="-112" frameY="-32" frameWidth="709" frameHeight="730"/>
+	<SubTexture name="bluedefecte idle0021" x="2624" y="0" width="661" height="460" rotated="true" frameX="-112" frameY="-32" frameWidth="709" frameHeight="730"/>
+	<SubTexture name="bluedefecte idle0022" x="7677" y="612" width="506" height="612" frameX="-66" frameY="-81" frameWidth="709" frameHeight="730"/>
+	<SubTexture name="bluedefecte idle0023" x="7677" y="612" width="506" height="612" frameX="-66" frameY="-81" frameWidth="709" frameHeight="730"/>
+	<SubTexture name="bluedefecte left0000" x="1850" y="935" width="656" height="529" rotated="true" frameX="-50" frameY="-46" frameWidth="709" frameHeight="730"/>
+	<SubTexture name="bluedefecte left0001" x="1850" y="935" width="656" height="529" rotated="true" frameX="-50" frameY="-46" frameWidth="709" frameHeight="730"/>
+	<SubTexture name="bluedefecte left0002" x="6439" y="471" width="641" height="497" rotated="true" frameX="-88" frameY="-62" frameWidth="709" frameHeight="730"/>
+	<SubTexture name="bluedefecte left0003" x="6439" y="471" width="641" height="497" rotated="true" frameX="-88" frameY="-62" frameWidth="709" frameHeight="730"/>
+	<SubTexture name="bluedefecte left0004" x="1267" y="460" width="673" height="475" rotated="true" frameX="-97" frameY="-32" frameWidth="709" frameHeight="730"/>
+	<SubTexture name="bluedefecte left0005" x="1267" y="460" width="673" height="475" rotated="true" frameX="-97" frameY="-32" frameWidth="709" frameHeight="730"/>
+	<SubTexture name="bluedefecte left0006" x="614" y="934" width="624" height="506" rotated="true" frameX="-66" frameY="-81" frameWidth="709" frameHeight="730"/>
+	<SubTexture name="bluedefecte left0007" x="614" y="934" width="624" height="506" rotated="true" frameX="-66" frameY="-81" frameWidth="709" frameHeight="730"/>
+	<SubTexture name="bluedefecte left0008" x="4485" y="469" width="659" height="482" rotated="true" frameX="-97" frameY="-46" frameWidth="709" frameHeight="730"/>
+	<SubTexture name="bluedefecte left0009" x="4485" y="469" width="659" height="482" rotated="true" frameX="-97" frameY="-46" frameWidth="709" frameHeight="730"/>
+	<SubTexture name="bluedefecte left0010" x="5144" y="470" width="643" height="488" rotated="true" frameX="-97" frameY="-62" frameWidth="709" frameHeight="730"/>
+	<SubTexture name="bluedefecte left0011" x="5144" y="470" width="643" height="488" rotated="true" frameX="-97" frameY="-62" frameWidth="709" frameHeight="730"/>
+	<SubTexture name="bluedefecte left0012" x="1940" y="460" width="673" height="475" rotated="true" frameX="-97" frameY="-32" frameWidth="709" frameHeight="730"/>
+	<SubTexture name="bluedefecte left0013" x="1940" y="460" width="673" height="475" rotated="true" frameX="-97" frameY="-32" frameWidth="709" frameHeight="730"/>
+	<SubTexture name="bluedefecte left0014" x="614" y="934" width="624" height="506" rotated="true" frameX="-66" frameY="-81" frameWidth="709" frameHeight="730"/>
+	<SubTexture name="bluedefecte left0015" x="614" y="934" width="624" height="506" rotated="true" frameX="-66" frameY="-81" frameWidth="709" frameHeight="730"/>
+	<SubTexture name="bluedefecte down0000" x="5787" y="470" width="652" height="490" rotated="true" frameX="-89" frameY="-46" frameWidth="709" frameHeight="730"/>
+	<SubTexture name="bluedefecte down0001" x="5787" y="470" width="652" height="490" rotated="true" frameX="-89" frameY="-46" frameWidth="709" frameHeight="730"/>
+	<SubTexture name="bluedefecte down0002" x="3860" y="469" width="625" height="480" rotated="true" frameX="-105" frameY="-62" frameWidth="709" frameHeight="730"/>
+	<SubTexture name="bluedefecte down0003" x="3860" y="469" width="625" height="480" rotated="true" frameX="-105" frameY="-62" frameWidth="709" frameHeight="730"/>
+	<SubTexture name="bluedefecte down0004" x="0" y="0" width="648" height="460" rotated="true" frameX="-112" frameY="-32" frameWidth="709" frameHeight="730"/>
+	<SubTexture name="bluedefecte down0005" x="0" y="0" width="648" height="460" rotated="true" frameX="-112" frameY="-32" frameWidth="709" frameHeight="730"/>
+	<SubTexture name="bluedefecte down0006" x="7080" y="472" width="597" height="506" rotated="true" frameX="-66" frameY="-81" frameWidth="709" frameHeight="730"/>
+	<SubTexture name="bluedefecte down0007" x="7080" y="472" width="597" height="506" rotated="true" frameX="-66" frameY="-81" frameWidth="709" frameHeight="730"/>
+	<SubTexture name="bluedefecte down0008" x="3285" y="0" width="632" height="469" rotated="true" frameX="-110" frameY="-46" frameWidth="709" frameHeight="730"/>
+	<SubTexture name="bluedefecte down0009" x="3285" y="0" width="632" height="469" rotated="true" frameX="-110" frameY="-46" frameWidth="709" frameHeight="730"/>
+	<SubTexture name="bluedefecte down0010" x="7085" y="0" width="616" height="472" rotated="true" frameX="-113" frameY="-62" frameWidth="709" frameHeight="730"/>
+	<SubTexture name="bluedefecte down0011" x="7085" y="0" width="616" height="472" rotated="true" frameX="-113" frameY="-62" frameWidth="709" frameHeight="730"/>
+	<SubTexture name="bluedefecte down0012" x="648" y="0" width="646" height="460" rotated="true" frameX="-112" frameY="-32" frameWidth="709" frameHeight="730"/>
+	<SubTexture name="bluedefecte down0013" x="648" y="0" width="646" height="460" rotated="true" frameX="-112" frameY="-32" frameWidth="709" frameHeight="730"/>
+	<SubTexture name="bluedefecte down0014" x="7080" y="472" width="597" height="506" rotated="true" frameX="-66" frameY="-81" frameWidth="709" frameHeight="730"/>
+	<SubTexture name="bluedefecte down0015" x="7080" y="472" width="597" height="506" rotated="true" frameX="-66" frameY="-81" frameWidth="709" frameHeight="730"/>
+	<SubTexture name="bluedefecte up0000" x="4564" y="0" width="638" height="469" rotated="true" frameX="-110" frameY="-11" frameWidth="709" frameHeight="730"/>
+	<SubTexture name="bluedefecte up0001" x="4564" y="0" width="638" height="469" rotated="true" frameX="-110" frameY="-11" frameWidth="709" frameHeight="730"/>
+	<SubTexture name="bluedefecte up0002" x="6475" y="0" width="610" height="471" rotated="true" frameX="-115" frameY="-41" frameWidth="709" frameHeight="730"/>
+	<SubTexture name="bluedefecte up0003" x="6475" y="0" width="610" height="471" rotated="true" frameX="-115" frameY="-41" frameWidth="709" frameHeight="730"/>
+	<SubTexture name="bluedefecte up0004" x="2613" y="460" width="623" height="475" rotated="true" frameX="-112" frameY="-32" frameWidth="709" frameHeight="730"/>
+	<SubTexture name="bluedefecte up0005" x="2613" y="460" width="623" height="475" rotated="true" frameX="-112" frameY="-32" frameWidth="709" frameHeight="730"/>
+	<SubTexture name="bluedefecte up0006" x="1238" y="935" width="612" height="521" rotated="true" frameX="-66" frameY="-44" frameWidth="709" frameHeight="730"/>
+	<SubTexture name="bluedefecte up0007" x="1238" y="935" width="612" height="521" rotated="true" frameX="-66" frameY="-44" frameWidth="709" frameHeight="730"/>
+	<SubTexture name="bluedefecte up0008" x="7701" y="0" width="477" height="612" frameX="-110" frameY="-44" frameWidth="709" frameHeight="730"/>
+	<SubTexture name="bluedefecte up0009" x="7701" y="0" width="477" height="612" frameX="-110" frameY="-44" frameWidth="709" frameHeight="730"/>
+	<SubTexture name="bluedefecte up0010" x="0" y="460" width="612" height="472" rotated="true" frameX="-115" frameY="-44" frameWidth="709" frameHeight="730"/>
+	<SubTexture name="bluedefecte up0011" x="0" y="460" width="612" height="472" rotated="true" frameX="-115" frameY="-44" frameWidth="709" frameHeight="730"/>
+	<SubTexture name="bluedefecte up0012" x="3236" y="469" width="624" height="475" rotated="true" frameX="-112" frameY="-32" frameWidth="709" frameHeight="730"/>
+	<SubTexture name="bluedefecte up0013" x="3236" y="469" width="624" height="475" rotated="true" frameX="-112" frameY="-32" frameWidth="709" frameHeight="730"/>
+	<SubTexture name="bluedefecte up0014" x="1238" y="935" width="612" height="521" rotated="true" frameX="-66" frameY="-44" frameWidth="709" frameHeight="730"/>
+	<SubTexture name="bluedefecte up0015" x="1238" y="935" width="612" height="521" rotated="true" frameX="-66" frameY="-44" frameWidth="709" frameHeight="730"/>
+	<SubTexture name="bluedefecte right0000" x="5642" y="960" width="618" height="591" rotated="true" frameX="-110" frameY="-46" frameWidth="709" frameHeight="730"/>
+	<SubTexture name="bluedefecte right0001" x="5642" y="960" width="618" height="591" rotated="true" frameX="-110" frameY="-46" frameWidth="709" frameHeight="730"/>
+	<SubTexture name="bluedefecte right0002" x="4400" y="951" width="615" height="564" rotated="true" frameX="-115" frameY="-62" frameWidth="709" frameHeight="730"/>
+	<SubTexture name="bluedefecte right0003" x="4400" y="951" width="615" height="564" rotated="true" frameX="-115" frameY="-62" frameWidth="709" frameHeight="730"/>
+	<SubTexture name="bluedefecte right0004" x="3117" y="944" width="642" height="563" rotated="true" frameX="-112" frameY="-32" frameWidth="709" frameHeight="730"/>
+	<SubTexture name="bluedefecte right0005" x="3117" y="944" width="642" height="563" rotated="true" frameX="-112" frameY="-32" frameWidth="709" frameHeight="730"/>
+	<SubTexture name="bluedefecte right0006" x="6260" y="968" width="609" height="592" frameX="-66" frameY="-81" frameWidth="709" frameHeight="730"/>
+	<SubTexture name="bluedefecte right0007" x="6260" y="968" width="609" height="592" frameX="-66" frameY="-81" frameWidth="709" frameHeight="730"/>
+	<SubTexture name="bluedefecte right0008" x="5015" y="958" width="627" height="565" rotated="true" frameX="-110" frameY="-46" frameWidth="709" frameHeight="730"/>
+	<SubTexture name="bluedefecte right0009" x="5015" y="958" width="627" height="565" rotated="true" frameX="-110" frameY="-46" frameWidth="709" frameHeight="730"/>
+	<SubTexture name="bluedefecte right0010" x="2506" y="935" width="611" height="560" rotated="true" frameX="-115" frameY="-62" frameWidth="709" frameHeight="730"/>
+	<SubTexture name="bluedefecte right0011" x="2506" y="935" width="611" height="560" rotated="true" frameX="-115" frameY="-62" frameWidth="709" frameHeight="730"/>
+	<SubTexture name="bluedefecte right0012" x="3759" y="949" width="641" height="563" rotated="true" frameX="-112" frameY="-32" frameWidth="709" frameHeight="730"/>
+	<SubTexture name="bluedefecte right0013" x="3759" y="949" width="641" height="563" rotated="true" frameX="-112" frameY="-32" frameWidth="709" frameHeight="730"/>
+	<SubTexture name="bluedefecte right0014" x="6260" y="968" width="609" height="592" frameX="-66" frameY="-81" frameWidth="709" frameHeight="730"/>
+	<SubTexture name="bluedefecte right0015" x="6260" y="968" width="609" height="592" frameX="-66" frameY="-81" frameWidth="709" frameHeight="730"/>
+</TextureAtlas>

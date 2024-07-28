@@ -1,0 +1,15 @@
+{
+  "song": {
+    "events": [
+      [
+        0,
+        [
+          ["Zoom Camera", "0.9", "0.5"],
+          ["Cinematics (With HUD)", "0.5", "120"],
+          ["shakey arrows", "little", ""],
+          ["sing shake", "", ""]
+        ]
+      ]
+    ]
+  }
+}

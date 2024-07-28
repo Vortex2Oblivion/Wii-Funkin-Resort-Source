@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="ringBoppers.png">
+	<!-- Created with Adobe Animate version 22.0.2.168 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="peoplebackground0000" x="0" y="0" width="3414" height="1188"/>
+	<SubTexture name="peoplebackground0001" x="0" y="0" width="3414" height="1188"/>
+	<SubTexture name="peoplebackground0002" x="0" y="1188" width="3414" height="1188"/>
+	<SubTexture name="peoplebackground0003" x="0" y="1188" width="3414" height="1188"/>
+	<SubTexture name="peoplebackground0004" x="0" y="2376" width="3414" height="1188"/>
+	<SubTexture name="peoplebackground0005" x="0" y="2376" width="3414" height="1188"/>
+	<SubTexture name="peoplebackground0006" x="0" y="2376" width="3414" height="1188"/>
+	<SubTexture name="peoplebackground0007" x="0" y="2376" width="3414" height="1188"/>
+	<SubTexture name="peoplebackground0008" x="0" y="2376" width="3414" height="1188"/>
+	<SubTexture name="peoplebackground0009" x="0" y="2376" width="3414" height="1188"/>
+	<SubTexture name="peoplebackground0010" x="0" y="2376" width="3414" height="1188"/>
+	<SubTexture name="peoplebackground0011" x="0" y="2376" width="3414" height="1188"/>
+	<SubTexture name="peoplebackground0012" x="0" y="2376" width="3414" height="1188"/>
+	<SubTexture name="peoplebackground0013" x="0" y="2376" width="3414" height="1188"/>
+</TextureAtlas>

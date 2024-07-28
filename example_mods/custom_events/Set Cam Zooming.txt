@@ -1,0 +1,3 @@
+Sets Cam Zooming
+
+Value 1: 0 or 1. 0 for false, 1 for true.

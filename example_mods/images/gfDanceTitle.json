@@ -1,0 +1,10 @@
+{
+  "titlex": 190,
+  "titley": -100,
+  "startx": 100,
+  "starty": 576,
+  "gfx": 2000,
+  "gfy": 2000,
+  "backgroundSprite": "islandfullview1280",
+  "bpm": 102
+}

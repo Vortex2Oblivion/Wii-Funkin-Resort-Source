@@ -1,0 +1,53 @@
+{
+  "animations": [
+    {
+      "loop": false,
+      "offsets": [76, 17],
+      "anim": "singUP",
+      "fps": 24,
+      "name": "PicoWiiUp01",
+      "indices": []
+    },
+    {
+      "loop": false,
+      "offsets": [0, 0],
+      "anim": "idle",
+      "fps": 24,
+      "name": "PicoWiiIdle01",
+      "indices": []
+    },
+    {
+      "loop": false,
+      "offsets": [60, -70],
+      "anim": "singDOWN",
+      "fps": 24,
+      "name": "PicoWiiDown01",
+      "indices": []
+    },
+    {
+      "offsets": [-48, -7],
+      "loop": false,
+      "fps": 24,
+      "anim": "singRIGHT",
+      "indices": [],
+      "name": "PicoWiiRight"
+    },
+    {
+      "offsets": [-6, -11],
+      "loop": false,
+      "fps": 24,
+      "anim": "singLEFT",
+      "indices": [],
+      "name": "PicoWiiLeft"
+    }
+  ],
+  "no_antialiasing": false,
+  "image": "characters/PicoWii",
+  "position": [0, 300],
+  "healthicon": "pico",
+  "flip_x": true,
+  "healthbar_colors": [183, 216, 65],
+  "camera_position": [-70, 50],
+  "sing_duration": 4,
+  "scale": 1
+}

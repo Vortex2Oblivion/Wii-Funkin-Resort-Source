@@ -1,0 +1,65 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="spacebar.png">
+	<!-- Created with Adobe Animate version 20.0.0.17400 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="spacebar0000" x="0" y="656" width="287" height="101"/>
+	<SubTexture name="spacebar0001" x="0" y="656" width="287" height="101"/>
+	<SubTexture name="spacebar0002" x="0" y="656" width="287" height="101"/>
+	<SubTexture name="spacebar0003" x="0" y="656" width="287" height="101"/>
+	<SubTexture name="spacebar0004" x="0" y="656" width="287" height="101"/>
+	<SubTexture name="spacebar0005" x="0" y="656" width="287" height="101"/>
+	<SubTexture name="spacebar0006" x="0" y="656" width="287" height="101"/>
+	<SubTexture name="spacebar0007" x="0" y="656" width="287" height="101"/>
+	<SubTexture name="spacebar0008" x="0" y="656" width="287" height="101"/>
+	<SubTexture name="spacebar0009" x="0" y="656" width="287" height="101"/>
+	<SubTexture name="spacebar0010" x="0" y="656" width="287" height="101"/>
+	<SubTexture name="spacebar0011" x="0" y="656" width="287" height="101"/>
+	<SubTexture name="spacebar0012" x="0" y="656" width="287" height="101"/>
+	<SubTexture name="spacebar0013" x="0" y="656" width="287" height="101"/>
+	<SubTexture name="spacebar0014" x="0" y="656" width="287" height="101"/>
+	<SubTexture name="spacebar glove press0000" x="0" y="440" width="287" height="216"/>
+	<SubTexture name="spacebar glove press0001" x="0" y="440" width="287" height="216"/>
+	<SubTexture name="spacebar glove press0002" x="287" y="440" width="287" height="216"/>
+	<SubTexture name="spacebar glove press0003" x="287" y="440" width="287" height="216"/>
+	<SubTexture name="spacebar glove press0004" x="574" y="440" width="287" height="216"/>
+	<SubTexture name="spacebar glove press0005" x="574" y="440" width="287" height="216"/>
+	<SubTexture name="spacebar glove press0006" x="861" y="440" width="287" height="216"/>
+	<SubTexture name="spacebar glove press0007" x="861" y="440" width="287" height="216"/>
+	<SubTexture name="spacebar glove press0008" x="1148" y="440" width="287" height="216"/>
+	<SubTexture name="spacebar glove press0009" x="1148" y="440" width="287" height="216"/>
+	<SubTexture name="spacebar glove press0010" x="1148" y="440" width="287" height="216"/>
+	<SubTexture name="spacebar glove press0011" x="1148" y="440" width="287" height="216"/>
+	<SubTexture name="spacebar glove press0012" x="1148" y="440" width="287" height="216"/>
+	<SubTexture name="spacebar glove press0013" x="1148" y="440" width="287" height="216"/>
+	<SubTexture name="spacebar glove press0014" x="1148" y="440" width="287" height="216"/>
+	<SubTexture name="spacebar press0000" x="287" y="656" width="287" height="101"/>
+	<SubTexture name="spacebar press0001" x="287" y="656" width="287" height="101"/>
+	<SubTexture name="spacebar press0002" x="574" y="656" width="287" height="101"/>
+	<SubTexture name="spacebar press0003" x="574" y="656" width="287" height="101"/>
+	<SubTexture name="spacebar press0004" x="861" y="656" width="287" height="101"/>
+	<SubTexture name="spacebar press0005" x="861" y="656" width="287" height="101"/>
+	<SubTexture name="spacebar press0006" x="861" y="656" width="287" height="101"/>
+	<SubTexture name="spacebar press0007" x="861" y="656" width="287" height="101"/>
+	<SubTexture name="spacebar press0008" x="861" y="656" width="287" height="101"/>
+	<SubTexture name="spacebar press0009" x="861" y="656" width="287" height="101"/>
+	<SubTexture name="spacebar press0010" x="861" y="656" width="287" height="101"/>
+	<SubTexture name="spacebar press0011" x="861" y="656" width="287" height="101"/>
+	<SubTexture name="spacebar press0012" x="861" y="656" width="287" height="101"/>
+	<SubTexture name="spacebar press0013" x="861" y="656" width="287" height="101"/>
+	<SubTexture name="spacebar press0014" x="861" y="656" width="287" height="101"/>
+	<SubTexture name="spacebar sword press0000" x="0" y="0" width="287" height="440"/>
+	<SubTexture name="spacebar sword press0001" x="0" y="0" width="287" height="440"/>
+	<SubTexture name="spacebar sword press0002" x="287" y="0" width="287" height="440"/>
+	<SubTexture name="spacebar sword press0003" x="287" y="0" width="287" height="440"/>
+	<SubTexture name="spacebar sword press0004" x="574" y="0" width="287" height="440"/>
+	<SubTexture name="spacebar sword press0005" x="574" y="0" width="287" height="440"/>
+	<SubTexture name="spacebar sword press0006" x="861" y="0" width="287" height="440"/>
+	<SubTexture name="spacebar sword press0007" x="861" y="0" width="287" height="440"/>
+	<SubTexture name="spacebar sword press0008" x="1148" y="0" width="287" height="440"/>
+	<SubTexture name="spacebar sword press0009" x="1148" y="0" width="287" height="440"/>
+	<SubTexture name="spacebar sword press0010" x="1148" y="0" width="287" height="440"/>
+	<SubTexture name="spacebar sword press0011" x="1148" y="0" width="287" height="440"/>
+	<SubTexture name="spacebar sword press0012" x="1148" y="0" width="287" height="440"/>
+	<SubTexture name="spacebar sword press0013" x="1148" y="0" width="287" height="440"/>
+	<SubTexture name="spacebar sword press0014" x="1148" y="0" width="287" height="440"/>
+</TextureAtlas>

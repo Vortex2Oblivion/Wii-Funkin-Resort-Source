@@ -1,0 +1,136 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				13,
+				-169
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "mattidle"
+		},
+		{
+			"offsets": [
+				40,
+				-190
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "mattleft"
+		},
+		{
+			"offsets": [
+				19,
+				-180
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "mattdown"
+		},
+		{
+			"offsets": [
+				73,
+				-163
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "mattup"
+		},
+		{
+			"offsets": [
+				92,
+				-169
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle-alt",
+			"indices": [],
+			"name": "mattaltidle"
+		},
+		{
+			"offsets": [
+				207,
+				-190
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT-alt",
+			"indices": [],
+			"name": "mattaltleft"
+		},
+		{
+			"offsets": [
+				66,
+				-181
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT-alt",
+			"indices": [],
+			"name": "mattaltright"
+		},
+		{
+			"offsets": [
+				22,
+				-178
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "mattright"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				48,
+				-172
+			],
+			"anim": "singUP-alt",
+			"fps": 24,
+			"name": "mattaltup",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				86,
+				-180
+			],
+			"anim": "singDOWN-alt",
+			"fps": 24,
+			"name": "mattaltdown",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/mattday",
+	"position": [
+		0,
+		280
+	],
+	"healthicon": "matt",
+	"angle": 0,
+	"flip_x": false,
+	"healthbar_colors": [
+		236,
+		145,
+		0
+	],
+	"camera_position": [
+		30,
+		30
+	],
+	"sing_duration": 4,
+	"scale": 1,
+	"skewX": 0,
+	"skewY": 0
+}

@@ -1,0 +1,7 @@
+Tweens Bloom on Low setting
+
+Value 1: Duration (0.4 recommended)
+Value 2: Undefined
+
+MAKE SURE THE SHADER IS ALREADY ENABLED
+Event by fregnub

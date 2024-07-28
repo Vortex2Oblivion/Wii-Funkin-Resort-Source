@@ -1,0 +1,48 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				-56
+			],
+			"anim": "danceLeft",
+			"fps": 24,
+			"name": "speaker anim0",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				-56
+			],
+			"anim": "danceRight",
+			"fps": 24,
+			"name": "speaker anim 20",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/speaker",
+	"position": [
+		0,
+		460
+	],
+	"healthicon": "basketballbf",
+	"angle": 0,
+	"flip_x": false,
+	"healthbar_colors": [
+		49,
+		176,
+		209
+	],
+	"camera_position": [
+		60,
+		-40
+	],
+	"sing_duration": 4,
+	"scale": 1,
+	"skewX": 0,
+	"skewY": 0
+}

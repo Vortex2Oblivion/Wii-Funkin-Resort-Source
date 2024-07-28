@@ -1,0 +1,7 @@
+Tweens BarrelBlurEffect
+
+Value 1: Barrel Amount ( put a "-" in front of the value to make the screen bend)
+Value 2: Duration (1 recommended)
+
+MAKE SURE THE SHADER IS ALREADY ENABLED
+Event by leCharterfnf

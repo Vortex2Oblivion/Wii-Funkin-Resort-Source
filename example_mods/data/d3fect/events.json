@@ -1,0 +1,41 @@
+{
+	"song": {
+		"events": [
+			[
+				0,
+				[
+					[
+						"Cinematics (With HUD)",
+						"0.5",
+						"120"
+					],
+					[
+						"changeObjectShader",
+						"effect weird",
+						"S"
+					],
+					[
+						"changeObjectShader",
+						"glitcheffect2",
+						"G"
+					],
+					[
+						"changeObjectShader",
+						"glitcheffect2",
+						"green"
+					],
+					[
+						"changeObjectShader",
+						"effect weird",
+						"ground"
+					],
+					[
+						"Zoom Camera",
+						"0.6",
+						"0.5"
+					]
+				]
+			]
+		]
+	}
+}

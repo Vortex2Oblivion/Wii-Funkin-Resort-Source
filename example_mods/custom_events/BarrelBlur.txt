@@ -1,0 +1,7 @@
+Tweens BarrelBlurEffect
+
+Value 1: Barrel Amount (no value recommended)
+Value 2: Duration (0.3 recommended)
+
+MAKE SURE THE SHADER IS ALREADY ENABLED
+Event by leCharterfnf
