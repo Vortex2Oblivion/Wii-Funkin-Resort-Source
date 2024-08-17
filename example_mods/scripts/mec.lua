@@ -10,7 +10,7 @@ local punchAlphaLerpSpeed = 17
 local punchTime = 0
 local fadeOutDelay = 0
 local songPos = 0
-local healthToRemove = 0.5
+local healthToRemove = 0.45
 function onCreatePost()
 	for i = 0, getProperty("eventNotes.length") - 1 do
 		local n = getPropertyFromGroup("eventNotes", i, "event")
@@ -22,16 +22,18 @@ function onCreatePost()
 				debugPrint("Value 1 or 2 of the event \"" .. n .. "\" on songPos \"" .. sT .. "\" is null. It will not be pushed/loaded.")
 				return
 			end
-			table.insert(punches, {
-				tonumber(sT),
-				tonumber(v1),
-				tonumber(v2),
-				false,
-				tonumber(v1),
-				0,
-				n
-			})
-			songHasPunches = true
+			if mechanics then
+				table.insert(punches, {
+					tonumber(sT),
+					tonumber(v1),
+					tonumber(v2),
+					false,
+					tonumber(v1),
+					0,
+					n
+				})
+				songHasPunches = true
+			end
 		end
 	end
 	if not songHasPunches then
@@ -47,7 +49,7 @@ function onUpdate(elapsed)
 		updateMec(elapsed)
 	end
 end
-function goodNoteHit(id, nD, nT, iS)
+function goodNoteHit()
 	dodgeCooldown = 0
 end
 function initMec()
@@ -57,7 +59,7 @@ function initMec()
 	addAnimationByPrefix("punch", "punch", "spacebar glove press", 24, false)
 	addAnimationByPrefix("punch", "slash", "spacebar sword press", 24, false)
 	scaleObject("punch", 1.25, 1.25)
-	runHaxeCode("game.getLuaObject(\"punch\").centerOffsets(true)")
+	centerOffsets("punch", true)
 	addOffset("punch", "normal", -35.875, -12.625)
 	addOffset("punch", "normal press", -35.875, -12.625)
 	addOffset("punch", "punch", -35.875, (-12.625) + 145)
@@ -78,7 +80,7 @@ function initMec()
 	setObjectOrder("msText", getObjectOrder("strumLineNotes"))
 	makeLuaText("punchesLeft", "", screenWidth / 2, 0, 0)
 	setTextFont("punchesLeft", "wii.ttf")
-	setTextSize("punchesLeft", 48)
+	setTextSize("punchesLeft", 64)
 	setProperty("punchesLeft.borderSize", 1)
 	screenCenter("punchesLeft")
 	setProperty("punchesLeft.y", getProperty("punchesLeft.y") + 25)
@@ -114,9 +116,8 @@ function updateMec(elapsed)
 				end
 			end
 			if songPos > punchTime + punchLateHitTiming then
-				setHealth(getHealth() -healthToRemove)
+				setHealth(getHealth() - healthToRemove)
 				punchRemove()
-				--print("miss")
 			end
 		end
 	end
@@ -140,12 +141,10 @@ function updateMec(elapsed)
 	if getProperty("punch.animation.curAnim.name") ~= "normal" and getProperty("punch.alpha") < 0.01 then
 		playAnim("punch", "normal", true)
 	end
-end
-function onEvent(eventName, value1, value2, strumTime)
-	if eventName == "punch2" or eventName == "slash2" then
-		healthToRemove = 1.5
-	elseif eventName == "punch" or eventName == "slash" then
-		healthToRemove = 0.45
+	if followNotes then
+		setProperty('punch.x', defaultPlayerStrumX0 + 45)
+		setProperty('msText.x', (getMidpointX('punch') / 2) + (getProperty("punch.width") / 2) - 20)
+		setProperty('punchesLeft.x', (getMidpointX('punch') / 2) + (getProperty("punch.width") / 2) - 20)
 	end
 end
 function punchRemove()
@@ -171,7 +170,6 @@ function tryDodge(bot)
 		local text = ms .. "ms" .. (bot and " (BOT)" or "")
 		setProperty("msText.alpha", 1)
 		setTextString("msText", text)
-		--print(text)
 		setTextColor("msText", "ffffff")
 		playAnim("dad", "attack", true)
 		setProperty("dad.specialAnim", true)

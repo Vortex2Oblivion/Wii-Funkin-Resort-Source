@@ -29,6 +29,7 @@ import flixel.FlxSprite;
 import openfl.Lib;
 import openfl.display.BlendMode;
 import openfl.filters.BitmapFilter;
+import openfl.filters.BlurFilter;
 import openfl.utils.Assets;
 import flixel.math.FlxMath;
 import flixel.util.FlxSave;
@@ -213,6 +214,8 @@ class FunkinLua {
 		set('currentModDirectory', Paths.currentModDirectory);
 		set('cameraTracksDirection', ClientPrefs.cameraTracksDirection);
 		set('mobile', FlxG.onMobile);
+		set('mechanics', ClientPrefs.mechanics);
+		set('followNotes', ClientPrefs.followNotes);
 
 		#if windows
 		set('buildTarget', 'windows');
@@ -2204,6 +2207,14 @@ class FunkinLua {
 						spr.screenCenter(XY);
 						return;
 				}
+			}
+			luaTrace("screenCenter: Object " + obj + " doesn't exist!", false, false, FlxColor.RED);
+		});
+		Lua_helper.add_callback(lua, "centerOffsets", function(obj:String, adjust:Bool = false) {
+			var s:FlxSprite = PlayState.instance.getLuaObject(obj);
+			if(s != null){
+				s.centerOffsets(adjust);
+				return;
 			}
 			luaTrace("screenCenter: Object " + obj + " doesn't exist!", false, false, FlxColor.RED);
 		});

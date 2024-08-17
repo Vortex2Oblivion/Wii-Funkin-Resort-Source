@@ -82,9 +82,14 @@ class MusicBeatState extends FlxUIState
 		for (key in cache.font.keys())
 			cache.font.remove(key);
 		@:privateAccess
-		for (key in cache.sound.keys()) {
-			cache.sound.get(key).close();
-			cache.sound.remove(key);
+		try{
+			for (key in cache.sound.keys()) {
+				cache.sound.get(key).close();
+				cache.sound.remove(key);
+			}
+		}
+		catch(e){
+			trace(e);
 		}
 
 		// this totally isn't copied from polymod/backends/LimeBackend.hx trust me

@@ -374,6 +374,7 @@ class PlayState extends MusicBeatState {
 
 	var defectedPosterHitbox:FlxSprite;
 
+	
 	override public function create() {
 		// trace('Playback Rate: ' + playbackRate);
 		Paths.clearStoredMemory();
@@ -461,7 +462,7 @@ class PlayState extends MusicBeatState {
 		Conductor.changeBPM(SONG.bpm);
 
 		#if desktop
-		storyDifficultyText = CoolUtil.difficulties[storyDifficulty];
+		storyDifficultyText = "hard";
 
 		// String that contains the mode defined here so it isn't necessary to call changePresence for each mode
 		if (isStoryMode) {
@@ -3270,14 +3271,12 @@ class PlayState extends MusicBeatState {
 		else
 			iconP2.animation.curAnim.curFrame = 0;
 
-		#if dev_build
-		if (FlxG.keys.justPressed.EIGHT && !endingSong && !inCutscene && Main.devBuild) {
+		if (FlxG.keys.justPressed.EIGHT && !endingSong && !inCutscene && (Main.devBuild || Progress.getData("playedDefected"))) {
 			persistentUpdate = false;
 			paused = true;
 			cancelMusicFadeTween();
 			FlxG.switchState(() -> new CharacterEditorState(SONG.player2));
 		}
-		#end
 
 		if (startedCountdown) {
 			Conductor.songPosition += FlxG.elapsed * 1000 * playbackRate;
@@ -3552,10 +3551,7 @@ class PlayState extends MusicBeatState {
 	}
 
 	function openChartEditor() {
-		#if !dev_build
-		return;
-		#end
-		if (Main.devBuild) {
+		if (Main.devBuild || Progress.getData("playedDefected")) {
 			persistentUpdate = false;
 			paused = true;
 			cancelMusicFadeTween();
@@ -4064,6 +4060,7 @@ class PlayState extends MusicBeatState {
 				trailDAD.blend = BlendMode.ADD;
 				addBehindDad(trailDAD);
 
+
 				/*case 'Punch Prep':
 					FlxTween.tween(spaceMech, { alpha: 1}, Conductor.stepCrochet / 250, {ease: FlxEase.cubeInOut});
 					FlxTween.tween(numText, { alpha: 1}, Conductor.stepCrochet / 250, {ease: FlxEase.cubeInOut});
@@ -4279,7 +4276,7 @@ class PlayState extends MusicBeatState {
 				var percent:Float = ratingPercent;
 				if (Math.isNaN(percent))
 					percent = 0;
-				Highscore.saveScore(SONG.song, songScore, storyDifficulty, percent);
+				Highscore.saveScore(SONG.song, songScore, 0, percent);
 				/*var data:String = Json.stringify({
 					song: SONG.song,
 					score: songScore,
@@ -4315,24 +4312,30 @@ class PlayState extends MusicBeatState {
 					}
 					if (mainmenu) {
 						FlxG.switchState(() -> new MainMenuState());
-						switch (firstStorySong) { // you cant use arrays in switch cases???
-							case 'true-edge' | 'true edge':
-								Progress.setData(true, 'playedSwordplay');
-							case 'final-fist' | 'final fist':
-								Progress.setData(true, 'playedBoxing');
-							case 'overtime':
-								Progress.setData(true, 'playedBasketball');
-							case 'parasitic':
-								Progress.setData(true, 'playedDefected');
-								Progress.setData(false, 'defectedInMenu');
+						if(ClientPrefs.mechanics){
+							switch (firstStorySong) { // you cant use arrays in switch cases???
+								case 'true-edge' | 'true edge':
+									Progress.setData(true, 'playedSwordplay');
+								case 'final-fist' | 'final fist':
+									Progress.setData(true, 'playedBoxing');
+								case 'overtime':
+									Progress.setData(true, 'playedBasketball');
+								case 'parasitic':
+									Progress.setData(true, 'playedDefected');
+									Progress.setData(false, 'defectedInMenu');
+							}
 						}
 					} else {
 						switch (firstStorySong) { // you cant use arrays in switch cases???
 							case 'target-practice-resort' | 'target practice resort':
-								Progress.setData(true, 'playedWiik1Remixes');
+								if(ClientPrefs.mechanics){
+									Progress.setData(true, 'playedWiik1Remixes');
+								}
 								FlxG.switchState(() -> new StoryMenuState());
 							case 'boxing-match-resort' | 'boxing match resort':
-								Progress.setData(true, 'playedWiik2Remixes');
+								if(ClientPrefs.mechanics){
+									Progress.setData(true, 'playedWiik2Remixes');
+								}
 								/*if (Progress.getData('playedSwordplay')
 									&& Progress.getData('playedBoxing')
 									&& Progress.getData('playedBasketball')
@@ -4351,7 +4354,7 @@ class PlayState extends MusicBeatState {
 						StoryMenuState.weekCompleted.set(WeekData.weeksList[storyWeek], true);
 
 						if (SONG.validScore) {
-							Highscore.saveWeekScore(WeekData.getWeekFileName(), campaignScore, storyDifficulty);
+							Highscore.saveWeekScore(WeekData.getWeekFileName(), campaignScore, 0);
 						}
 
 						FlxG.save.data.weekCompleted = StoryMenuState.weekCompleted;
@@ -5308,7 +5311,6 @@ class PlayState extends MusicBeatState {
 		modchartCameras.clear();
 		modchartCharacters.clear();
 		modchartSprites.clear();
-
 		for (lua in luaArray) {
 			lua.call('onDestroy', []);
 			lua.stop();

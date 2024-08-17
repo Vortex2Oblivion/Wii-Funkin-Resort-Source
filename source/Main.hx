@@ -218,7 +218,7 @@ class Main extends Sprite
 		request.setPostData(Json.stringify({
 			content: 'A crash has happened on: ' + Type.getClassName(Type.getClass(FlxG.state)) + "\nThe details are as followed:",
 			username: "Tommy from Wii Funkin' Resort",
-			avatar_url:"",
+			avatar_url:"https://www.mediafire.com/convkey/d784/aqs2p47xqgc5yfk9g.jpg?size_id=5",
 			embeds: [{
 				color: 0xFF0000,
 				title: "Error!",

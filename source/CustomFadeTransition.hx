@@ -23,7 +23,6 @@ class CustomFadeTransition extends MusicBeatSubstate {
 	var transGradient:FlxSprite;
 	var checker:FlxSprite;
 	var loadingScreenBg:FlxSprite;
-	var swagShader:ColorSwap  = new ColorSwap();
 
 
 	public function new(duration:Float, isTransIn:Bool) {
@@ -35,16 +34,14 @@ class CustomFadeTransition extends MusicBeatSubstate {
 		var height:Int = Std.int(FlxG.height / zoom);
 
 
-		var checker = new FlxSprite();
+		var checker:FlxSprite = new FlxSprite();
 		checker.loadGraphic(Paths.image('loadingScreens/checker'));
 		checker.screenCenter();
-		checker.color = FlxColor.RED;
-		checker.shader = swagShader.shader;
+		checker.color = FlxColor.fromHSB(FlxG.random.float(0, 360), 1, 1);
 		checker.scrollFactor.set();
 		checker.antialiasing = ClientPrefs.globalAntialiasing;
-		swagShader.hue = Math.random();
 
-		var loadingScreenBg = new FlxSprite();
+		var loadingScreenBg:FlxSprite = new FlxSprite();
 		loadingScreenBg.loadGraphic(Paths.image('loadingScreens/load-${FlxG.random.int(0,2)}'));
 		loadingScreenBg.setGraphicSize(FlxG.width);
 		loadingScreenBg.antialiasing = ClientPrefs.globalAntialiasing;

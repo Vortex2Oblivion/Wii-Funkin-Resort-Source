@@ -3,6 +3,7 @@ function onCreate()
 		if getPropertyFromGroup('unspawnNotes', i, 'noteType') == 'Glitch Note' then
 			setPropertyFromGroup('unspawnNotes', i, 'texture', 'mechanics/glitch')
             setPropertyFromGroup('unspawnNotes', i, 'missHealth', 5000)
+			setPropertyFromGroup('unspawnNotes', i, 'shader', nil)
 		end
 	end
 end

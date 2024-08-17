@@ -464,6 +464,9 @@ class FreeplayState extends MusicBeatState
 
 		infoText.updateHitbox();
 		infoText.screenCenter(X);
+
+		intendedScore = Highscore.getScore(songs[curSelected].songName, curDifficulty);
+		intendedRating = Highscore.getRating(songs[curSelected].songName, curDifficulty);
 	}
 
 	private function fuckTweenChr(?name:String = null, ?dontDoShitLmao:Bool = false) {
@@ -795,7 +798,7 @@ class FreeplayState extends MusicBeatState
 				colorTween.cancel();
 			}
 			
-			if (FlxG.keys.pressed.SHIFT){
+			if (FlxG.keys.pressed.SHIFT && (Main.devBuild || Progress.getData("playedDefected"))){
 				LoadingState.loadAndSwitchState(new ChartingState());
 				//camHUD.visible = false;
 			}else{

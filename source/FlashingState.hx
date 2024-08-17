@@ -24,9 +24,6 @@ class FlashingState extends MusicBeatState
 	{
 		super.create();
 
-		var bg:FlxSprite = new FlxSprite().makeGraphic(FlxG.width, FlxG.height, FlxColor.BLACK);
-		add(bg);
-
 		warnText = new FlxText(0, 0, FlxG.width,
 			"Hey, watch out!\n
 			This Mod contains some flashing lights\n
@@ -52,8 +49,8 @@ class FlashingState extends MusicBeatState
 	{
 		if(timeLeft == 0){
 			timeLeftText.text = "Continue...";
-			FlxTween.tween(timeLeftText, {color: FlxColor.WHITE}, 0.25 );
-			FlxTween.tween(warnText, {color: FlxColor.WHITE}, 0.25 );
+			FlxTween.color(warnText, 0.25, FlxColor.RED, FlxColor.WHITE);
+			FlxTween.color(timeLeftText, 0.25, FlxColor.RED, FlxColor.WHITE);
 		}
 		else
 			timeLeftText.text = Std.string(timeLeft);
