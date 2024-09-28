@@ -7,4 +7,4 @@
 [Twitter](https://twitter.com/wiifunkinresort)
 
 idk what else to put
-<img src="https://static.miraheze.org/phightingwiki/f/fe/Scythe_Render.png" alt="Take scythe phighting because shes cool idk" width="64"/>
+<img src="https://static.miraheze.org/phightingwiki/c/c1/Render_Coil.png" alt="Crystal Ciminal Gaming" width="64"/>
